@@ -1,0 +1,713 @@
+{"level":"info","message":"🚀 - Iniciando a sincronização de arquivos Markdown para JSON...","service":"user-service","timestamp":"2024-12-21 23:01:45"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\pages","service":"user-service","timestamp":"2024-12-21 23:01:45"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\posts","service":"user-service","timestamp":"2024-12-21 23:01:45"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_drafts","service":"user-service","timestamp":"2024-12-21 23:01:45"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_authors","service":"user-service","timestamp":"2024-12-21 23:01:45"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom","service":"user-service","timestamp":"2024-12-21 23:01:45"}
+{"level":"warn","message":"Warning: Invalid frontmatter content in C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom\\custom-1.md","service":"user-service","timestamp":"2024-12-21 23:01:45"}
+{"level":"info","message":"Total files processed: 17","service":"user-service","timestamp":"2024-12-21 23:01:45"}
+{"level":"info","message":"✅ - Sincronização de arquivos Markdown para JSON concluída!","service":"user-service","timestamp":"2024-12-21 23:01:45"}
+{"level":"info","message":"🚀 - Iniciando a sincronização de arquivos Markdown para JSON...","service":"user-service","timestamp":"2024-12-21 23:01:48"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\pages","service":"user-service","timestamp":"2024-12-21 23:01:48"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\posts","service":"user-service","timestamp":"2024-12-21 23:01:48"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_drafts","service":"user-service","timestamp":"2024-12-21 23:01:48"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_authors","service":"user-service","timestamp":"2024-12-21 23:01:48"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom","service":"user-service","timestamp":"2024-12-21 23:01:48"}
+{"level":"warn","message":"Warning: Invalid frontmatter content in C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom\\custom-1.md","service":"user-service","timestamp":"2024-12-21 23:01:48"}
+{"level":"info","message":"Total files processed: 17","service":"user-service","timestamp":"2024-12-21 23:01:48"}
+{"level":"info","message":"✅ - Sincronização de arquivos Markdown para JSON concluída!","service":"user-service","timestamp":"2024-12-21 23:01:48"}
+{"level":"info","message":"🚀 - Executando a etapa final do pipeline...","service":"user-service","timestamp":"2024-12-21 23:01:48"}
+{"level":"info","message":"✅ - Etapa final concluída!","service":"user-service","timestamp":"2024-12-21 23:01:48"}
+{"level":"info","message":"🚀 - Pipeline concluído com sucesso!","service":"user-service","timestamp":"2024-12-21 23:01:48"}
+{"level":"info","message":"🚀 - Iniciando a sincronização de arquivos Markdown para JSON..."}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\pages"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\posts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_drafts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_authors"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom"}
+{"level":"warn","message":"Warning: Invalid frontmatter content in C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom\\custom-1.md"}
+{"level":"info","message":"Total files processed: 17"}
+{"level":"info","message":"✅ - Sincronização de arquivos Markdown para JSON concluída!"}
+{"level":"info","message":"🚀 - Iniciando a sincronização de arquivos Markdown para JSON..."}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\pages"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\posts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_drafts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_authors"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom"}
+{"level":"warn","message":"Warning: Invalid frontmatter content in C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom\\custom-1.md"}
+{"level":"info","message":"Total files processed: 17"}
+{"level":"info","message":"✅ - Sincronização de arquivos Markdown para JSON concluída!"}
+{"level":"info","message":"🚀 - Executando a etapa final do pipeline..."}
+{"level":"info","message":"✅ - Etapa final concluída!"}
+{"level":"info","message":"🚀 - Pipeline concluído com sucesso!"}
+{"level":"info","message":"🚀 - Iniciando a sincronização de arquivos Markdown para JSON..."}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\pages"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\posts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_drafts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_authors"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom"}
+{"level":"warn","message":"Warning: Invalid frontmatter content in C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom\\custom-1.md"}
+{"level":"info","message":"Total files processed: 17"}
+{"level":"info","message":"✅ - Sincronização de arquivos Markdown para JSON concluída!"}
+{"level":"info","message":"🚀 - Iniciando a sincronização de arquivos Markdown para JSON..."}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\pages"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\posts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_drafts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_authors"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom"}
+{"level":"warn","message":"Warning: Invalid frontmatter content in C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom\\custom-1.md"}
+{"level":"info","message":"Total files processed: 17"}
+{"level":"info","message":"✅ - Sincronização de arquivos Markdown para JSON concluída!"}
+{"level":"info","message":"🚀 - Executando a etapa final do pipeline..."}
+{"level":"info","message":"✅ - Etapa final concluída!"}
+{"level":"info","message":"🚀 - Pipeline concluído com sucesso!"}
+{"level":"info","message":"🚀 - Iniciando a sincronização de arquivos Markdown para JSON..."}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\pages"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\posts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_drafts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_authors"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom"}
+{"level":"warn","message":"Warning: Invalid frontmatter content in C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom\\custom-1.md"}
+{"level":"info","message":"Total files processed: 17"}
+{"level":"info","message":"✅ - Sincronização de arquivos Markdown para JSON concluída!"}
+{"level":"info","message":"🚀 - Iniciando a sincronização de arquivos Markdown para JSON..."}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\pages"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\posts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_drafts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_authors"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom"}
+{"level":"warn","message":"Warning: Invalid frontmatter content in C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom\\custom-1.md"}
+{"level":"info","message":"Total files processed: 17"}
+{"level":"info","message":"✅ - Sincronização de arquivos Markdown para JSON concluída!"}
+{"level":"info","message":"🚀 - Executando a etapa final do pipeline..."}
+{"level":"info","message":"✔️ [🔄 - Copy: Public Folder] - success.\n"}
+{"level":"info","message":"✅ - Etapa final concluída!"}
+{"level":"info","message":"🚀 - Pipeline concluído com sucesso!"}
+{"level":"info","message":"🚀 - Iniciando a sincronização de arquivos Markdown para JSON..."}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\pages"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\posts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_drafts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_authors"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom"}
+{"level":"warn","message":"Warning: Invalid frontmatter content in C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom\\custom-1.md"}
+{"level":"info","message":"Total files processed: 17"}
+{"level":"info","message":"✅ - Sincronização de arquivos Markdown para JSON concluída!"}
+{"level":"info","message":"🚀 - Iniciando a sincronização de arquivos Markdown para JSON..."}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\pages"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\posts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_drafts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_authors"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom"}
+{"level":"warn","message":"Warning: Invalid frontmatter content in C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom\\custom-1.md"}
+{"level":"info","message":"Total files processed: 17"}
+{"level":"info","message":"✅ - Sincronização de arquivos Markdown para JSON concluída!"}
+{"level":"info","message":"🚀 - Executando a etapa final do pipeline..."}
+{"level":"info","message":"✔️ [🔄 - Copy: Public Folder] - success.\n"}
+{"level":"info","message":"✅ - Etapa final concluída!"}
+{"level":"info","message":"🚀 - Pipeline concluído com sucesso!"}
+{"level":"info","message":"🚀 - Iniciando a sincronização de arquivos Markdown para JSON..."}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\pages"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\posts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_drafts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_authors"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom"}
+{"level":"warn","message":"Warning: Invalid frontmatter content in C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom\\custom-1.md"}
+{"level":"info","message":"Total files processed: 17"}
+{"level":"info","message":"✅ - Sincronização de arquivos Markdown para JSON concluída!"}
+{"level":"info","message":"🚀 - Iniciando a sincronização de arquivos Markdown para JSON..."}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\pages"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\posts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_drafts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_authors"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom"}
+{"level":"warn","message":"Warning: Invalid frontmatter content in C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom\\custom-1.md"}
+{"level":"info","message":"Total files processed: 17"}
+{"level":"info","message":"✅ - Sincronização de arquivos Markdown para JSON concluída!"}
+{"level":"info","message":"🚀 - Executando a etapa final do pipeline..."}
+{"level":"info","message":"✔️ [🔄 - Copy: Public Folder] - success.\n"}
+{"level":"info","message":"✅ - Etapa final concluída!"}
+{"level":"info","message":"🚀 - Pipeline concluído com sucesso!"}
+{"level":"info","message":"🚀 - Iniciando a sincronização de arquivos Markdown para JSON..."}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\pages"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\posts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_drafts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_authors"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom"}
+{"level":"warn","message":"Warning: Invalid frontmatter content in C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom\\custom-1.md"}
+{"level":"info","message":"Total files processed: 17"}
+{"level":"info","message":"Writing JSON file: allPostsCategories.json"}
+{"level":"info","message":"✔️ [Categories MD to JSON] - allPostsCategories.json stored successfully."}
+{"level":"info","message":"✅ - Sincronização de arquivos Markdown para JSON concluída!"}
+{"level":"info","message":"🚀 - Iniciando a sincronização de arquivos Markdown para JSON..."}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\pages"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\posts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_drafts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_authors"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom"}
+{"level":"warn","message":"Warning: Invalid frontmatter content in C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom\\custom-1.md"}
+{"level":"info","message":"Total files processed: 17"}
+{"level":"info","message":"Writing JSON file: allPostsCategories.json"}
+{"level":"info","message":"✔️ [Categories MD to JSON] - allPostsCategories.json stored successfully."}
+{"level":"info","message":"✅ - Sincronização de arquivos Markdown para JSON concluída!"}
+{"level":"info","message":"🚀 - Executando a etapa final do pipeline..."}
+{"level":"info","message":"✔️ [🔄 - Copy: Public Folder] - success.\n"}
+{"level":"info","message":"✅ - Etapa final concluída!"}
+{"level":"info","message":"🚀 - Pipeline concluído com sucesso!"}
+{"level":"info","message":"🚀 - Iniciando a sincronização de arquivos Markdown para JSON..."}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\pages"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\posts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_drafts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_authors"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom"}
+{"level":"warn","message":"Warning: Invalid frontmatter content in C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom\\custom-1.md"}
+{"level":"info","message":"Total files processed: 17"}
+{"level":"info","message":"Writing JSON file: allPostsCategories.json"}
+{"level":"info","message":"✔️ [Categories MD to JSON] - allPostsCategories.json stored successfully."}
+{"level":"info","message":"✅ - Sincronização de arquivos Markdown para JSON concluída!"}
+{"level":"info","message":"🚀 - Iniciando a sincronização de arquivos Markdown para JSON..."}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\pages"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\posts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_drafts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_authors"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom"}
+{"level":"warn","message":"Warning: Invalid frontmatter content in C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom\\custom-1.md"}
+{"level":"info","message":"Total files processed: 17"}
+{"level":"info","message":"Writing JSON file: allPostsCategories.json"}
+{"level":"info","message":"✔️ [Categories MD to JSON] - allPostsCategories.json stored successfully."}
+{"level":"info","message":"✅ - Sincronização de arquivos Markdown para JSON concluída!"}
+{"level":"info","message":"🚀 - Executando a etapa final do pipeline..."}
+{"level":"info","message":"✔️ [🔄 - Copy: Public Folder] - success.\n"}
+{"level":"info","message":"✅ - Etapa final concluída!"}
+{"level":"info","message":"🚀 - Pipeline concluído com sucesso!"}
+{"level":"info","message":"🚀 - Iniciando a sincronização de arquivos Markdown para JSON..."}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\pages"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\posts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_drafts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_authors"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom"}
+{"level":"warn","message":"Warning: Invalid frontmatter content in C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom\\custom-1.md"}
+{"level":"info","message":"Total files processed: 17"}
+{"level":"info","message":"Writing JSON file: allPostsCategories.json"}
+{"level":"info","message":"✔️ [Categories MD to JSON] - allPostsCategories.json stored successfully."}
+{"level":"info","message":"✅ - Sincronização de arquivos Markdown para JSON concluída!"}
+{"level":"info","message":"🚀 - Iniciando a sincronização de arquivos Markdown para JSON..."}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\pages"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\posts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_drafts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_authors"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom"}
+{"level":"warn","message":"Warning: Invalid frontmatter content in C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom\\custom-1.md"}
+{"level":"info","message":"Total files processed: 17"}
+{"level":"info","message":"Writing JSON file: allPostsCategories.json"}
+{"level":"info","message":"✔️ [Categories MD to JSON] - allPostsCategories.json stored successfully."}
+{"level":"info","message":"✅ - Sincronização de arquivos Markdown para JSON concluída!"}
+{"level":"info","message":"🚀 - Executando a etapa final do pipeline..."}
+{"level":"info","message":"✔️ [🔄 - Copy: Public Folder] - success.\n"}
+{"level":"info","message":"✅ - Etapa final concluída!"}
+{"level":"info","message":"🚀 - Pipeline concluído com sucesso!"}
+{"level":"info","message":"🚀 - Iniciando a sincronização de arquivos Markdown para JSON..."}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\pages"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\posts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_drafts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_authors"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom"}
+{"level":"warn","message":"Warning: Invalid frontmatter content in C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom\\custom-1.md"}
+{"level":"info","message":"Total files processed: 17"}
+{"level":"info","message":"Writing JSON file: allPostsCategories.json"}
+{"level":"info","message":"✔️ [Categories MD to JSON] - allPostsCategories.json stored successfully."}
+{"level":"info","message":"✅ - Sincronização de arquivos Markdown para JSON concluída!"}
+{"level":"info","message":"🚀 - Iniciando a sincronização de arquivos Markdown para JSON..."}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\pages"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\posts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_drafts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_authors"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom"}
+{"level":"warn","message":"Warning: Invalid frontmatter content in C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom\\custom-1.md"}
+{"level":"info","message":"Total files processed: 17"}
+{"level":"info","message":"Writing JSON file: allPostsCategories.json"}
+{"level":"info","message":"✔️ [Categories MD to JSON] - allPostsCategories.json stored successfully."}
+{"level":"info","message":"✅ - Sincronização de arquivos Markdown para JSON concluída!"}
+{"level":"info","message":"🚀 - Executando a etapa final do pipeline..."}
+{"level":"info","message":"✔️ [🔄 - Copy: Public Folder] - success.\n"}
+{"level":"info","message":"✅ - Etapa final concluída!"}
+{"level":"info","message":"🚀 - Pipeline concluído com sucesso!"}
+{"level":"info","message":"🚀 - Iniciando a sincronização de arquivos Markdown para JSON..."}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\pages"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\posts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_drafts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_authors"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom"}
+{"level":"warn","message":"Warning: Invalid frontmatter content in C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom\\custom-1.md"}
+{"level":"info","message":"Total files processed: 17"}
+{"level":"info","message":"Writing JSON file: allPostsCategories.json"}
+{"level":"info","message":"✔️ [Categories MD to JSON] - allPostsCategories.json stored successfully."}
+{"level":"info","message":"✅ - Sincronização de arquivos Markdown para JSON concluída!"}
+{"level":"info","message":"🚀 - Iniciando a sincronização de arquivos Markdown para JSON..."}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\pages"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\posts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_drafts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_authors"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom"}
+{"level":"warn","message":"Warning: Invalid frontmatter content in C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom\\custom-1.md"}
+{"level":"info","message":"Total files processed: 17"}
+{"level":"info","message":"Writing JSON file: allPostsCategories.json"}
+{"level":"info","message":"✔️ [Categories MD to JSON] - allPostsCategories.json stored successfully."}
+{"level":"info","message":"✅ - Sincronização de arquivos Markdown para JSON concluída!"}
+{"level":"info","message":"🚀 - Executando a etapa final do pipeline..."}
+{"level":"info","message":"✔️ [🔄 - Copy: Public Folder] - success.\n"}
+{"level":"info","message":"✅ - Etapa final concluída!"}
+{"level":"info","message":"🚀 - Pipeline concluído com sucesso!"}
+{"level":"info","message":"🚀 - Iniciando a sincronização de arquivos Markdown para JSON..."}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\pages"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\posts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_drafts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_authors"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom"}
+{"level":"warn","message":"Warning: Invalid frontmatter content in C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom\\custom-1.md"}
+{"level":"info","message":"Total files processed: 17"}
+{"level":"info","message":"Writing JSON file: allPostsCategories.json"}
+{"level":"info","message":"✔️ [Categories MD to JSON] - allPostsCategories.json stored successfully."}
+{"level":"info","message":"✅ - Sincronização de arquivos Markdown para JSON concluída!"}
+{"level":"info","message":"🚀 - Iniciando a sincronização de arquivos Markdown para JSON..."}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\pages"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\posts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_drafts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_authors"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom"}
+{"level":"warn","message":"Warning: Invalid frontmatter content in C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom\\custom-1.md"}
+{"level":"info","message":"Total files processed: 17"}
+{"level":"info","message":"Writing JSON file: allPostsCategories.json"}
+{"level":"info","message":"✔️ [Categories MD to JSON] - allPostsCategories.json stored successfully."}
+{"level":"info","message":"✅ - Sincronização de arquivos Markdown para JSON concluída!"}
+{"level":"info","message":"🚀 - Executando a etapa final do pipeline..."}
+{"level":"info","message":"✔️ [🔄 - Copy: Public Folder] - success.\n"}
+{"level":"info","message":"✅ - Etapa final concluída!"}
+{"level":"info","message":"🚀 - Pipeline concluído com sucesso!"}
+{"level":"info","message":"🚀 - Iniciando a sincronização de arquivos Markdown para JSON..."}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\pages"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\posts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_drafts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_authors"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom"}
+{"level":"warn","message":"Warning: Invalid frontmatter content in C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom\\custom-1.md"}
+{"level":"info","message":"Total files processed: 17"}
+{"level":"info","message":"Writing JSON file: allPostsCategories.json"}
+{"level":"info","message":"✔️ [Categories MD to JSON] - allPostsCategories.json stored successfully."}
+{"level":"info","message":"✅ - Sincronização de arquivos Markdown para JSON concluída!"}
+{"level":"info","message":"🚀 - Iniciando a sincronização de arquivos Markdown para JSON..."}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\pages"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\posts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_drafts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_authors"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom"}
+{"level":"warn","message":"Warning: Invalid frontmatter content in C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom\\custom-1.md"}
+{"level":"info","message":"Total files processed: 17"}
+{"level":"info","message":"Writing JSON file: allPostsCategories.json"}
+{"level":"info","message":"✔️ [Categories MD to JSON] - allPostsCategories.json stored successfully."}
+{"level":"info","message":"✅ - Sincronização de arquivos Markdown para JSON concluída!"}
+{"level":"info","message":"🚀 - Executando a etapa final do pipeline..."}
+{"level":"info","message":"✔️ [🔄 - Copy: Public Folder] - success.\n"}
+{"level":"info","message":"✅ - Etapa final concluída!"}
+{"level":"info","message":"🚀 - Pipeline concluído com sucesso!"}
+{"level":"info","message":"🚀 - Iniciando a sincronização de arquivos Markdown para JSON..."}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\pages"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\posts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_drafts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_authors"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom"}
+{"level":"warn","message":"Warning: Invalid frontmatter content in C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom\\custom-1.md"}
+{"level":"info","message":"Total files processed: 17"}
+{"level":"info","message":"Writing JSON file: allPostsCategories.json"}
+{"level":"info","message":"✔️ [Categories MD to JSON] - allPostsCategories.json stored successfully."}
+{"level":"info","message":"✅ - Sincronização de arquivos Markdown para JSON concluída!"}
+{"level":"info","message":"🚀 - Iniciando a sincronização de arquivos Markdown para JSON..."}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\pages"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\posts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_drafts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_authors"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom"}
+{"level":"warn","message":"Warning: Invalid frontmatter content in C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom\\custom-1.md"}
+{"level":"info","message":"Total files processed: 17"}
+{"level":"info","message":"Writing JSON file: allPostsCategories.json"}
+{"level":"info","message":"✔️ [Categories MD to JSON] - allPostsCategories.json stored successfully."}
+{"level":"info","message":"✅ - Sincronização de arquivos Markdown para JSON concluída!"}
+{"level":"info","message":"🚀 - Executando a etapa final do pipeline..."}
+{"level":"info","message":"✔️ [🔄 - Copy: Public Folder] - success.\n"}
+{"level":"info","message":"✅ - Etapa final concluída!"}
+{"level":"info","message":"🚀 - Pipeline concluído com sucesso!"}
+{"level":"info","message":"🚀 - Iniciando a sincronização de arquivos Markdown para JSON..."}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\pages"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\posts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_drafts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_authors"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom"}
+{"level":"warn","message":"Warning: Invalid frontmatter content in C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom\\custom-1.md"}
+{"level":"info","message":"Total files processed: 17"}
+{"level":"info","message":"Writing JSON file: allPostsCategories.json"}
+{"level":"info","message":"✔️ [Categories MD to JSON] - allPostsCategories.json stored successfully."}
+{"level":"info","message":"✅ - Sincronização de arquivos Markdown para JSON concluída!"}
+{"level":"info","message":"🚀 - Iniciando a sincronização de arquivos Markdown para JSON..."}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\pages"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\posts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_drafts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_authors"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom"}
+{"level":"warn","message":"Warning: Invalid frontmatter content in C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom\\custom-1.md"}
+{"level":"info","message":"Total files processed: 17"}
+{"level":"info","message":"Writing JSON file: allPostsCategories.json"}
+{"level":"info","message":"✔️ [Categories MD to JSON] - allPostsCategories.json stored successfully."}
+{"level":"info","message":"✅ - Sincronização de arquivos Markdown para JSON concluída!"}
+{"level":"info","message":"🚀 - Executando a etapa final do pipeline..."}
+{"level":"info","message":"✔️ [🔄 - Copy: Public Folder] - success.\n"}
+{"level":"info","message":"✅ - Etapa final concluída!"}
+{"level":"info","message":"🚀 - Pipeline concluído com sucesso!"}
+{"level":"info","message":"🚀 - Iniciando a sincronização de arquivos Markdown para JSON..."}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\pages"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\posts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_drafts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_authors"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom"}
+{"level":"warn","message":"Warning: Invalid frontmatter content in C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom\\custom-1.md"}
+{"level":"info","message":"Total files processed: 17"}
+{"level":"info","message":"Writing JSON file: allPostsCategories.json"}
+{"level":"info","message":"✔️ [Categories MD to JSON] - allPostsCategories.json stored successfully."}
+{"level":"info","message":"✅ - Sincronização de arquivos Markdown para JSON concluída!"}
+{"level":"info","message":"🚀 - Iniciando a sincronização de arquivos Markdown para JSON..."}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\pages"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\posts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_drafts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_authors"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom"}
+{"level":"warn","message":"Warning: Invalid frontmatter content in C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom\\custom-1.md"}
+{"level":"info","message":"Total files processed: 17"}
+{"level":"info","message":"Writing JSON file: allPostsCategories.json"}
+{"level":"info","message":"✔️ [Categories MD to JSON] - allPostsCategories.json stored successfully."}
+{"level":"info","message":"✅ - Sincronização de arquivos Markdown para JSON concluída!"}
+{"level":"info","message":"🚀 - Executando a etapa final do pipeline..."}
+{"level":"info","message":"✔️ [🔄 - Copy: Public Folder] - success.\n"}
+{"level":"info","message":"✅ - Etapa final concluída!"}
+{"level":"info","message":"🚀 - Pipeline concluído com sucesso!"}
+{"level":"info","message":"🚀 - Iniciando a sincronização de arquivos Markdown para JSON..."}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\pages"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\posts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_drafts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_authors"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom"}
+{"level":"info","message":"Total files processed: 18"}
+{"level":"info","message":"Writing JSON file: allPostsCategories.json"}
+{"level":"info","message":"✔️ [Categories MD to JSON] - allPostsCategories.json stored successfully."}
+{"level":"info","message":"✅ - Sincronização de arquivos Markdown para JSON concluída!"}
+{"level":"info","message":"🚀 - Iniciando a sincronização de arquivos Markdown para JSON..."}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\pages"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\posts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_drafts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_authors"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom"}
+{"level":"info","message":"Total files processed: 18"}
+{"level":"info","message":"Writing JSON file: allPostsCategories.json"}
+{"level":"info","message":"✔️ [Categories MD to JSON] - allPostsCategories.json stored successfully."}
+{"level":"info","message":"✅ - Sincronização de arquivos Markdown para JSON concluída!"}
+{"level":"info","message":"🚀 - Executando a etapa final do pipeline..."}
+{"level":"info","message":"✔️ [🔄 - Copy: Public Folder] - success.\n"}
+{"level":"info","message":"✅ - Etapa final concluída!"}
+{"level":"info","message":"🚀 - Pipeline concluído com sucesso!"}
+{"level":"info","message":"🚀 - Iniciando a sincronização de arquivos Markdown para JSON..."}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\pages"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\posts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_drafts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_authors"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom"}
+{"level":"info","message":"Total files processed: 18"}
+{"level":"info","message":"Writing JSON file: allPostsCategories.json"}
+{"level":"info","message":"✔️ [Categories MD to JSON] - allPostsCategories.json stored successfully."}
+{"level":"info","message":"✅ - Sincronização de arquivos Markdown para JSON concluída!"}
+{"level":"info","message":"🚀 - Iniciando a sincronização de arquivos Markdown para JSON..."}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\pages"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\posts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_drafts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_authors"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom"}
+{"level":"info","message":"Total files processed: 18"}
+{"level":"info","message":"Writing JSON file: allPostsCategories.json"}
+{"level":"info","message":"✔️ [Categories MD to JSON] - allPostsCategories.json stored successfully."}
+{"level":"info","message":"✅ - Sincronização de arquivos Markdown para JSON concluída!"}
+{"level":"info","message":"🚀 - Executando a etapa final do pipeline..."}
+{"level":"info","message":"✔️ [🔄 - Copy: Public Folder] - success.\n"}
+{"level":"info","message":"✅ - Etapa final concluída!"}
+{"level":"info","message":"🚀 - Pipeline concluído com sucesso!"}
+{"level":"info","message":"🚀 - Iniciando a sincronização de arquivos Markdown para JSON..."}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\pages"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\posts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_drafts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_authors"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom"}
+{"level":"info","message":"Total files processed: 18"}
+{"level":"info","message":"Writing JSON file: allPostsCategories.json"}
+{"level":"info","message":"✔️ [Categories MD to JSON] - allPostsCategories.json stored successfully."}
+{"level":"info","message":"✅ - Sincronização de arquivos Markdown para JSON concluída!"}
+{"level":"info","message":"🚀 - Iniciando a sincronização de arquivos Markdown para JSON..."}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\pages"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\posts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_drafts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_authors"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom"}
+{"level":"info","message":"Total files processed: 18"}
+{"level":"info","message":"Writing JSON file: allPostsCategories.json"}
+{"level":"info","message":"✔️ [Categories MD to JSON] - allPostsCategories.json stored successfully."}
+{"level":"info","message":"✅ - Sincronização de arquivos Markdown para JSON concluída!"}
+{"level":"info","message":"🚀 - Executando a etapa final do pipeline..."}
+{"level":"info","message":"✔️ [🔄 - Copy: Public Folder] - success.\n"}
+{"level":"info","message":"✅ - Etapa final concluída!"}
+{"level":"info","message":"🚀 - Pipeline concluído com sucesso!"}
+{"level":"info","message":"🚀 - Iniciando a sincronização de arquivos Markdown para JSON..."}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\pages"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\posts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_drafts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_authors"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom"}
+{"level":"info","message":"Total files processed: 18"}
+{"level":"info","message":"Writing JSON file: allPostsCategories.json"}
+{"level":"info","message":"✔️ [Categories MD to JSON] - allPostsCategories.json stored successfully."}
+{"level":"info","message":"✅ - Sincronização de arquivos Markdown para JSON concluída!"}
+{"level":"info","message":"🚀 - Iniciando a sincronização de arquivos Markdown para JSON..."}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\pages"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\posts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_drafts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_authors"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom"}
+{"level":"info","message":"Total files processed: 18"}
+{"level":"info","message":"Writing JSON file: allPostsCategories.json"}
+{"level":"info","message":"✔️ [Categories MD to JSON] - allPostsCategories.json stored successfully."}
+{"level":"info","message":"✅ - Sincronização de arquivos Markdown para JSON concluída!"}
+{"level":"info","message":"🚀 - Executando a etapa final do pipeline..."}
+{"level":"info","message":"✔️ [🔄 - Copy: Public Folder] - success.\n"}
+{"level":"info","message":"✅ - Etapa final concluída!"}
+{"level":"info","message":"🚀 - Pipeline concluído com sucesso!"}
+{"level":"info","message":"🚀 - Iniciando a sincronização de arquivos Markdown para JSON..."}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\pages"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\posts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_drafts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_authors"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom"}
+{"level":"info","message":"Total files processed: 18"}
+{"level":"info","message":"Writing JSON file: allPostsCategories.json"}
+{"level":"info","message":"✔️ [Categories MD to JSON] - allPostsCategories.json stored successfully."}
+{"level":"info","message":"✅ - Sincronização de arquivos Markdown para JSON concluída!"}
+{"level":"info","message":"🚀 - Iniciando a sincronização de arquivos Markdown para JSON..."}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\pages"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\posts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_drafts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_authors"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom"}
+{"level":"info","message":"Total files processed: 18"}
+{"level":"info","message":"Writing JSON file: allPostsCategories.json"}
+{"level":"info","message":"✔️ [Categories MD to JSON] - allPostsCategories.json stored successfully."}
+{"level":"info","message":"✅ - Sincronização de arquivos Markdown para JSON concluída!"}
+{"level":"info","message":"🚀 - Executando a etapa final do pipeline..."}
+{"level":"info","message":"✔️ [🔄 - Copy: Public Folder] - success.\n"}
+{"level":"info","message":"✅ - Etapa final concluída!"}
+{"level":"info","message":"🚀 - Pipeline concluído com sucesso!"}
+{"level":"info","message":"🚀 - Iniciando a sincronização de arquivos Markdown para JSON..."}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\pages"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\posts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_drafts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_authors"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom"}
+{"level":"info","message":"Total files processed: 18"}
+{"level":"info","message":"Writing JSON file: allPostsCategories.json"}
+{"level":"info","message":"✔️ [Categories MD to JSON] - allPostsCategories.json stored successfully."}
+{"level":"info","message":"✅ - Sincronização de arquivos Markdown para JSON concluída!"}
+{"level":"info","message":"🚀 - Iniciando a sincronização de arquivos Markdown para JSON..."}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\pages"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\posts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_drafts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_authors"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom"}
+{"level":"info","message":"Total files processed: 18"}
+{"level":"info","message":"Writing JSON file: allPostsCategories.json"}
+{"level":"info","message":"✔️ [Categories MD to JSON] - allPostsCategories.json stored successfully."}
+{"level":"info","message":"✅ - Sincronização de arquivos Markdown para JSON concluída!"}
+{"level":"info","message":"🚀 - Executando a etapa final do pipeline..."}
+{"level":"info","message":"✔️ [🔄 - Copy: Public Folder] - success.\n"}
+{"level":"info","message":"✅ - Etapa final concluída!"}
+{"level":"info","message":"🚀 - Pipeline concluído com sucesso!"}
+{"level":"info","message":"🚀 - Iniciando a sincronização de arquivos Markdown para JSON..."}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\pages"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\posts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_drafts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_authors"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom"}
+{"level":"info","message":"Total files processed: 18"}
+{"level":"info","message":"Writing JSON file: allPostsCategories.json"}
+{"level":"info","message":"✔️ [Post Categories MD to JSON] - allPostsCategories.json stored successfully."}
+{"level":"info","message":"Writing JSON file: allCustomCategories.json"}
+{"level":"info","message":"✔️ [Custom Categories MD to JSON] - allCustomCategories.json stored successfully."}
+{"level":"info","message":"✅ - Sincronização de arquivos Markdown para JSON concluída!"}
+{"level":"info","message":"🚀 - Iniciando a sincronização de arquivos Markdown para JSON..."}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\pages"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\posts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_drafts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_authors"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom"}
+{"level":"info","message":"Total files processed: 18"}
+{"level":"info","message":"Writing JSON file: allPostsCategories.json"}
+{"level":"info","message":"✔️ [Post Categories MD to JSON] - allPostsCategories.json stored successfully."}
+{"level":"info","message":"Writing JSON file: allCustomCategories.json"}
+{"level":"info","message":"✔️ [Custom Categories MD to JSON] - allCustomCategories.json stored successfully."}
+{"level":"info","message":"✅ - Sincronização de arquivos Markdown para JSON concluída!"}
+{"level":"info","message":"🚀 - Executando a etapa final do pipeline..."}
+{"level":"info","message":"✔️ [🔄 - Copy: Public Folder] - success.\n"}
+{"level":"info","message":"✅ - Etapa final concluída!"}
+{"level":"info","message":"🚀 - Pipeline concluído com sucesso!"}
+{"level":"info","message":"🚀 - Iniciando a sincronização de arquivos Markdown para JSON..."}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\pages"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\posts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_drafts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_authors"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom"}
+{"level":"info","message":"Total files processed: 18"}
+{"level":"info","message":"Writing JSON file: allPostsCategories.json"}
+{"level":"info","message":"✔️ [Post Categories MD to JSON] - allPostsCategories.json stored successfully."}
+{"level":"info","message":"Writing JSON file: allCustomCategories.json"}
+{"level":"info","message":"✔️ [Custom Categories MD to JSON] - allCustomCategories.json stored successfully."}
+{"level":"info","message":"✅ - Sincronização de arquivos Markdown para JSON concluída!"}
+{"level":"info","message":"🚀 - Iniciando a sincronização de arquivos Markdown para JSON..."}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\pages"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\posts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_drafts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_authors"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom"}
+{"level":"info","message":"Total files processed: 18"}
+{"level":"info","message":"Writing JSON file: allPostsCategories.json"}
+{"level":"info","message":"✔️ [Post Categories MD to JSON] - allPostsCategories.json stored successfully."}
+{"level":"info","message":"Writing JSON file: allCustomCategories.json"}
+{"level":"info","message":"✔️ [Custom Categories MD to JSON] - allCustomCategories.json stored successfully."}
+{"level":"info","message":"✅ - Sincronização de arquivos Markdown para JSON concluída!"}
+{"level":"info","message":"🚀 - Executando a etapa final do pipeline..."}
+{"level":"info","message":"✔️ [🔄 - Copy: Public Folder] - success.\n"}
+{"level":"info","message":"✅ - Etapa final concluída!"}
+{"level":"info","message":"🚀 - Pipeline concluído com sucesso!"}
+{"level":"info","message":"🚀 - Iniciando a sincronização de arquivos Markdown para JSON..."}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\pages"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\posts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_drafts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_authors"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom"}
+{"level":"info","message":"Total files processed: 18"}
+{"level":"info","message":"Writing JSON file: allPostsCategories.json"}
+{"level":"info","message":"✔️ [Post Categories MD to JSON] - allPostsCategories.json stored successfully."}
+{"level":"info","message":"Writing JSON file: allCustomCategories.json"}
+{"level":"info","message":"✔️ [Custom Categories MD to JSON] - allCustomCategories.json stored successfully."}
+{"level":"info","message":"✅ - Sincronização de arquivos Markdown para JSON concluída!"}
+{"level":"info","message":"🚀 - Iniciando a sincronização de arquivos Markdown para JSON..."}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\pages"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\posts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_drafts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_authors"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom"}
+{"level":"info","message":"Total files processed: 18"}
+{"level":"info","message":"Writing JSON file: allPostsCategories.json"}
+{"level":"info","message":"✔️ [Post Categories MD to JSON] - allPostsCategories.json stored successfully."}
+{"level":"info","message":"Writing JSON file: allCustomCategories.json"}
+{"level":"info","message":"✔️ [Custom Categories MD to JSON] - allCustomCategories.json stored successfully."}
+{"level":"info","message":"✅ - Sincronização de arquivos Markdown para JSON concluída!"}
+{"level":"info","message":"🚀 - Executando a etapa final do pipeline..."}
+{"level":"info","message":"✔️ [🔄 - Copy: Public Folder] - success.\n"}
+{"level":"info","message":"✅ - Etapa final concluída!"}
+{"level":"info","message":"🚀 - Pipeline concluído com sucesso!"}
+{"level":"info","message":"🚀 - Iniciando a sincronização de arquivos Markdown para JSON..."}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\pages"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\posts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_drafts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_authors"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom"}
+{"level":"info","message":"Total files processed: 18"}
+{"level":"info","message":"Writing JSON file: allPostsCategories.json"}
+{"level":"info","message":"✔️ [Post Categories MD to JSON] - allPostsCategories.json stored successfully."}
+{"level":"info","message":"Writing JSON file: allCustomCategories.json"}
+{"level":"info","message":"✔️ [Custom Categories MD to JSON] - allCustomCategories.json stored successfully."}
+{"level":"info","message":"✅ - Sincronização de arquivos Markdown para JSON concluída!"}
+{"level":"info","message":"🚀 - Iniciando a sincronização de arquivos Markdown para JSON..."}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\pages"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\posts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_drafts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_authors"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom"}
+{"level":"info","message":"Total files processed: 18"}
+{"level":"info","message":"Writing JSON file: allPostsCategories.json"}
+{"level":"info","message":"✔️ [Post Categories MD to JSON] - allPostsCategories.json stored successfully."}
+{"level":"info","message":"Writing JSON file: allCustomCategories.json"}
+{"level":"info","message":"✔️ [Custom Categories MD to JSON] - allCustomCategories.json stored successfully."}
+{"level":"info","message":"✅ - Sincronização de arquivos Markdown para JSON concluída!"}
+{"level":"info","message":"🚀 - Iniciando a sincronização de arquivos Markdown para JSON..."}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\pages"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\posts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_drafts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_authors"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom"}
+{"level":"info","message":"Total files processed: 18"}
+{"level":"info","message":"Writing JSON file: allPostsCategories.json"}
+{"level":"info","message":"✔️ [Post Categories MD to JSON] - allPostsCategories.json stored successfully."}
+{"level":"info","message":"Writing JSON file: allCustomCategories.json"}
+{"level":"info","message":"✔️ [Custom Categories MD to JSON] - allCustomCategories.json stored successfully."}
+{"level":"info","message":"✅ - Sincronização de arquivos Markdown para JSON concluída!"}
+{"level":"info","message":"🚀 - Executando a etapa final do pipeline..."}
+{"level":"info","message":"✔️ [🔄 - Copy: Public Folder] - success.\n"}
+{"level":"info","message":"✅ - Etapa final concluída!"}
+{"level":"info","message":"🚀 - Pipeline concluído com sucesso!"}
+{"level":"info","message":"🚀 - Iniciando a sincronização de arquivos Markdown para JSON..."}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\pages"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\posts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_drafts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_authors"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom"}
+{"level":"info","message":"Total files processed: 18"}
+{"level":"info","message":"Writing JSON file: allPostsCategories.json"}
+{"level":"info","message":"✔️ [Post Categories MD to JSON] - allPostsCategories.json stored successfully."}
+{"level":"info","message":"Writing JSON file: allCustomCategories.json"}
+{"level":"info","message":"✔️ [Custom Categories MD to JSON] - allCustomCategories.json stored successfully."}
+{"level":"info","message":"✅ - Sincronização de arquivos Markdown para JSON concluída!"}
+{"level":"info","message":"🚀 - Iniciando a sincronização de arquivos Markdown para JSON..."}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\pages"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\posts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_drafts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_authors"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom"}
+{"level":"info","message":"Total files processed: 18"}
+{"level":"info","message":"Writing JSON file: allPostsCategories.json"}
+{"level":"info","message":"✔️ [Post Categories MD to JSON] - allPostsCategories.json stored successfully."}
+{"level":"info","message":"Writing JSON file: allCustomCategories.json"}
+{"level":"info","message":"✔️ [Custom Categories MD to JSON] - allCustomCategories.json stored successfully."}
+{"level":"info","message":"✅ - Sincronização de arquivos Markdown para JSON concluída!"}
+{"level":"info","message":"🚀 - Executando a etapa final do pipeline..."}
+{"level":"info","message":"✔️ [🔄 - Copy: Public Folder] - success.\n"}
+{"level":"info","message":"✅ - Etapa final concluída!"}
+{"level":"info","message":"🚀 - Pipeline concluído com sucesso!"}
+{"level":"info","message":"🚀 - Iniciando a sincronização de arquivos Markdown para JSON..."}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\pages"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\posts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_drafts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_authors"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom"}
+{"level":"info","message":"Total files processed: 18"}
+{"level":"info","message":"Writing JSON file: allPostsCategories.json"}
+{"level":"info","message":"✔️ [Post Categories MD to JSON] - allPostsCategories.json stored successfully."}
+{"level":"info","message":"Writing JSON file: allCustomCategories.json"}
+{"level":"info","message":"✔️ [Custom Categories MD to JSON] - allCustomCategories.json stored successfully."}
+{"level":"info","message":"✅ - Sincronização de arquivos Markdown para JSON concluída!"}
+{"level":"info","message":"🚀 - Iniciando a sincronização de arquivos Markdown para JSON..."}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\pages"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\posts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_drafts"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\ai_authors"}
+{"level":"info","message":"Processing folder: C:\\Users\\milto\\Documents\\prompt-digestion\\content\\custom"}
+{"level":"info","message":"Total files processed: 18"}
+{"level":"info","message":"Writing JSON file: allPostsCategories.json"}
+{"level":"info","message":"✔️ [Post Categories MD to JSON] - allPostsCategories.json stored successfully."}
+{"level":"info","message":"Writing JSON file: allCustomCategories.json"}
+{"level":"info","message":"✔️ [Custom Categories MD to JSON] - allCustomCategories.json stored successfully."}
+{"level":"info","message":"✅ - Sincronização de arquivos Markdown para JSON concluída!"}
+{"level":"info","message":"🚀 - Executando a etapa final do pipeline..."}
+{"level":"info","message":"✔️ [🔄 - Copy: Public Folder] - success.\n"}
+{"level":"info","message":"✅ - Etapa final concluída!"}
+{"level":"info","message":"🚀 - Pipeline concluído com sucesso!"}

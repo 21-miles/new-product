@@ -1,0 +1,59 @@
+{
+  "name": "digest-it",
+  "version": "0.2.672",
+  "description": "web tools",
+  "private": false,
+  "workspaces": [
+    "blog",
+    "admin",
+    "core"
+  ],
+  "main": "index.js",
+  "bin": {
+    "digest-it": "CLI.js"
+  },
+  "scripts": {
+    "export": "npm run export -w core",
+    "clean": "npm run clean -w core",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "echo \"Error: handle that Milton\" && nodemon <arquivo-principal>.js",
+    "dev:core": "nodemon core/server.js",
+    "dev:core:build": "npm run dev -w core",
+    "dev:core:server": "node core/server.js",
+    "dev:blog": "echo 'Starting blog server...' && npm run dev -w blog",
+    "dev:admin": "echo 'Starting admin server...' && npm run dev -w admin",
+    "build": "npm run build -w core && npm run build -w blog && npm run export && npm run clean",
+    "digest": "npm run digest -w core",
+    "atom": "npm run atom -w core",
+    "autogpt": "npm run autogpt -w core",
+    "chatgpt": "npm run chatgpt -w core",
+    "content": "npm run content -w core",
+    "decap": "npm run decap -w core",
+    "schedule": "npm run schedule -w core",
+    "rss": "npm run rss -w core",
+    "sass": "npm run sass -w core",
+    "sitemaps": "npm run sitemaps -w core",
+    "stories": "npm run stories -w core",
+    "static": "npm run static -w core",
+    "update": "npm run update -w core",
+    "workflows": "npm run workflows -w core"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Edu4Dev/digest-it.git"
+  },
+  "keywords": [
+    "digest"
+  ],
+  "author": "Milton Bolonha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Edu4Dev/digest-it/issues"
+  },
+  "homepage": "https://github.com/Edu4Dev/digest-it#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "concurrently": "^9.1.1",
+    "npm-run-all": "^4.1.5"
+  }
+}
