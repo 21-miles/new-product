@@ -4,7 +4,7 @@ backend:
   branch: master
   site_domain: https://moderntips.com
 
-media_folder: "core/public/posts"
+media_folder: "backend/public/posts"
 public_folder: ""
 media_library:
   name: cloudinary
@@ -199,56 +199,11 @@ collections:
     editor:
       preview: false
     files:
-      - name: "ai"
-        label: "A.I. Settings"
-        file: "content/settings/ai.json"
-        description: "A.I. Settings"
-        fields:
-          - label: "Train Model (not working)"
-            name: trainingModel
-            widget: boolean
-            hint: "Click when you change your make lot of changes in ai author's and main prompt."
-            default: false
-            required: false
-          - label: "ChatGPT Model"
-            name: gptModel
-            widget: select
-            options:
-              - "gpt-4o"
-              - "gpt-4o-mini"
-              - "gpt-4-turbo"
-              - "gpt-4"
-              - "gpt-3.5-turbo"
-            default: "Off"
-            hint: "Turn off or choose how often to generate auto posts."
-            required: false
-          - label: "Universal Prompt"
-            name: body
-            widget: markdown
-            hint: ""
-            required: false
-          - label: "MD Transform Content Prompt"
-            name: mdTransformPrompt
-            widget: markdown
-            hint: "Length: The article should be between 750 and 2500 words. Write a 1-2 sentence opening."
-            required: false
-          - label: "JSON Response Format"
-            name: jsonResponse
-            widget: markdown
-            hint: "{}"
-            default: "{}"
-            required: false
-      - name: "autoPostAi"
-        label: "Auto A.I. Posting"
+      - name: "autoPost"
+        label: "Auto Post"
         file: "content/settings/autoPost.json"
-        description: "Generate Automatic Posts"
+        description: "Automatic posting functionality"
         fields:
-          - label: "Generate New Post"
-            name: newPost
-            widget: boolean
-            hint: "Set true and save to generate new post."
-            default: false
-            required: false
           - label: "Auto Posts - References"
             label_singular: Reference
             required: false
@@ -260,7 +215,6 @@ collections:
             min: 1
             widget: "list"
             fields:
-              - { label: "Label", name: label, widget: "string" }
               - { label: "Href", name: href, widget: "string" }
           - label: "Auto Posts - Frequency"
             name: aiUrlFrequency
@@ -339,6 +293,51 @@ collections:
             default: "UTC-03:00 (São Paulo, Brazil)"
             hint: "Choose the timezone and hour for the auto post schedule. The time is in 24-hour format."
             required: true
+      - name: "ai"
+        label: "A.I. Settings"
+        file: "content/settings/ai.json"
+        description: "A.I. Settings"
+        fields:
+          - label: "Generate New Post"
+            name: newPost
+            widget: boolean
+            hint: "Set true and save to generate new post."
+            default: false
+            required: false
+          - label: "Train Model (not working)"
+            name: trainingModel
+            widget: boolean
+            hint: "Click when you change your make lot of changes in ai author's and main prompt."
+            default: false
+            required: false
+          - label: "ChatGPT Model"
+            name: gptModel
+            widget: select
+            options:
+              - "gpt-4o"
+              - "gpt-4o-mini"
+              - "gpt-4-turbo"
+              - "gpt-4"
+              - "gpt-3.5-turbo"
+            default: "Off"
+            hint: "Turn off or choose how often to generate auto posts."
+            required: false
+          - label: "Universal Prompt"
+            name: body
+            widget: markdown
+            hint: ""
+            required: false
+          - label: "MD Transform Content Prompt"
+            name: mdTransformPrompt
+            widget: markdown
+            hint: "Length: The article should be between 750 and 2500 words. Write a 1-2 sentence opening."
+            required: false
+          - label: "JSON Response Format"
+            name: jsonResponse
+            widget: markdown
+            hint: "{}"
+            default: "{}"
+            required: false
       - name: "integrations"
         label: "Third-Party Integrations"
         file: "content/settings/integrations.json"
@@ -637,6 +636,11 @@ collections:
         file: "content/settings/general.json"
         description: "General Site Settings"
         fields:
+          - label: "Home Category"
+            name: homeCategory
+            widget: string
+            hint: "Health"
+            required: true
           - label: "Publish Date"
             name: publishedDate
             widget: datetime
@@ -652,6 +656,12 @@ collections:
             widget: string
             hint: "https://example.com/blog - The path 'blog' that defines the set of all URLs."
             required: false
+          - label: "Cookie Consent"
+            name: cookieConsent
+            widget: boolean
+            hint: "Turn on/off Cookie Consent."
+            required: false
+            default: false
           - label: "I18n"
             name: i18n
             widget: string
@@ -822,7 +832,7 @@ collections:
           - label: "Custom NextJS Source"
             name: customNextSource
             widget: string
-            hint: "Set to your own custom `core/src` repository."
+            hint: "Set to your own custom `backend/src` repository."
             required: false
           - label: "Beta Tester (not working yet)"
             name: beta

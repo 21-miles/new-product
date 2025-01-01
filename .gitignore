@@ -20,16 +20,16 @@ blog/.env.local
 # blog/public/ads.txt
 # blog/public/admin/config.yml
 lost-admin
-# core
-core/node_modules
-core/.next/
-core/out/
-core/node_modules
-core/out
-core/.next
-core/.env*
-core/.env.local
-core/.env.local.example
+# backend
+backend/node_modules
+backend/.next/
+backend/out/
+backend/node_modules
+backend/out
+backend/.next
+backend/.env*
+backend/.env.local
+backend/.env.local.example
 
 # Output
 output

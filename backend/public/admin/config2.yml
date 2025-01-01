@@ -4,7 +4,7 @@ backend:
   branch: master
   site_domain: https://helthi.com
 
-media_folder: "core/public/posts"
+media_folder: "backend/public/posts"
 public_folder: ""
 media_library:
   name: cloudinary
