@@ -2,30 +2,17 @@ import React from "react";
 import Script from "next/script";
 import "@fontsource-variable/inter";
 import { usePathname } from "next/navigation";
-import { ThemeProvider, useTheme } from "next-themes";
 
 import "../styles/styles.scss";
 // import postsData from "@/brand/.cache/allPostsData.json";
-import general from "@/brand/settings/general.json";
 import integrations from "@/brand/settings/integrations.json";
 // import CookieConsent from "react-cookie-consent";
 import { CampaignProvider } from "@/services/context";
 function App({ Component, pageProps }) {
   const location = usePathname();
-  const { theme, setTheme } = useTheme();
-  if (general.darkModeSwitcher === false)
-    setTheme("light") || setTheme(theme || "light");
-  const ThemeComponent = ({ children }) => {
-    if (general.darkModeSwitcher === false)
-      return (
-        <ThemeProvider enableColorScheme={false} forcedTheme="light">
-          {children}
-        </ThemeProvider>
-      );
-    return <ThemeProvider enableColorScheme={false}>{children}</ThemeProvider>;
-  };
+
   return (
-    <ThemeComponent>
+    <>
       {integrations?.googleIntegration?.gaID &&
       integrations?.googleIntegration?.gaID !== "" ? (
         <>
@@ -115,7 +102,7 @@ function App({ Component, pageProps }) {
           This website collect data to enhance the user experience.{" "}
         </CookieConsent>
       )} */}
-    </ThemeComponent>
+    </>
   );
 }
 

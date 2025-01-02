@@ -1,9 +1,7 @@
 import React from "react";
 import Link from "next/link";
 import Image from "next/image";
-import DarkModeContainer from "../containers/DarkModeContainer";
 import mainMenu from "@/brand/settings/mainMenu.json";
-import general from "@/brand/settings/general.json";
 import theme from "@/brand/settings/theme.json";
 import logos from "@/brand/settings/logos.json";
 import postsData from "@/brand/.cache/allPostsData.json";
@@ -163,7 +161,6 @@ const Header = ({
           </nav>
         ) : null}
       </div>
-      {general.darkModeSwitcher ? <DarkModeContainer /> : null}
     </header>
   );
 };

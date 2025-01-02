@@ -7,7 +7,6 @@ const nextConfig = {
   reactStrictMode: false,
   output: "export",
   trailingSlash: true,
-  swcMinify: true,
   assetPrefix: isProd ? process.env.WEBSITE_URL : "",
   images: {
     deviceSizes: [350, 480, 640, 768, 960, 1250, 2048],
