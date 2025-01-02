@@ -2,12 +2,12 @@ import React from "react";
 import SEO from "@/components/SEO";
 import Head from "next/head";
 
-import integrations from "@/content/settings/integrations.json";
-import general from "@/content/settings/general.json";
-import theme from "@/content/settings/theme.json";
-import business from "@/content/settings/business.json";
-import logos from "@/content/settings/logos.json";
-import linkTree from "@/content/settings/linkTree.json";
+import integrations from "@/brand/settings/integrations.json";
+import general from "@/brand/settings/general.json";
+import theme from "@/brand/settings/theme.json";
+import business from "@/brand/settings/business.json";
+import logos from "@/brand/settings/logos.json";
+import linkTree from "@/brand/settings/linkTree.json";
 import { devMode } from "../lib/devMode";
 const SeoContainer = ({ data, killSeo = true }) => {
   // const isBrowser = () => typeof window !== "undefined";

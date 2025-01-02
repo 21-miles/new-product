@@ -1,8 +1,8 @@
 {
   "folders": [
     {
-      "name": "Content",
-      "path": "./content"
+      "name": "brand/",
+      "path": "./brand"
     },
     {
       "name": "Backend",

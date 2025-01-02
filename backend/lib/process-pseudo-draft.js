@@ -12,7 +12,7 @@ const debugMe = require("../utils/debug-me");
 // const { webScraping } = require("./web-scraping");
 // const prompts = require("./prompts");
 
-// const contentFolder = path.join(__dirname, "../../../../content");
+// const brandFolder = path.join(__dirname, "../../../../brand");
 
 /**
  * Processes direct data input, generates a blog post using AI tools, and saves the post.

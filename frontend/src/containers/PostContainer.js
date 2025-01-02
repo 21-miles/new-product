@@ -1,12 +1,12 @@
 import React, { useEffect, useState, useRef } from "react";
 import { Adsense } from "@ctrl/react-adsense";
-import integrations from "@/content/settings/integrations.json";
-import theme from "@/content/settings/theme.json";
+import integrations from "@/brand/settings/integrations.json";
+import theme from "@/brand/settings/theme.json";
 import { renderToString } from "react-dom/server";
 
 import SinglePostWrapper from "@/components/SinglePostWrapper";
-import allPostsData from "@/content/.cache/allPostsData.json";
-import custom from "@/content/settings/custom.json";
+import allPostsData from "@/brand/.cache/allPostsData.json";
+import custom from "@/brand/settings/custom.json";
 
 const PostContainer = ({
   highlightImage,

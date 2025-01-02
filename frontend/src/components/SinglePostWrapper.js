@@ -1,7 +1,7 @@
 import React from "react";
 
-import integrations from "@/content/settings/integrations.json";
-import theme from "@/content/settings/theme.json";
+import integrations from "@/brand/settings/integrations.json";
+import theme from "@/brand/settings/theme.json";
 
 import PostLeftColumn from "./PostLeftColumn";
 import PostRightColumn from "./PostRightColumn";

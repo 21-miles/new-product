@@ -101,33 +101,30 @@ const mainProps = {
   paths: {
     allPagesDataFile: path.join(
       `${appRoot}`,
-      `/content/.cache/allPagesData.json`
+      `/brand/.cache/allPagesData.json`
     ),
-    postsDatasFile: path.join(`${appRoot}`, `/content/.cache/postsDatas.json`),
-    categories: path.join(`${appRoot}`, `/content/.cache/allPostsData.json`),
+    postsDatasFile: path.join(`${appRoot}`, `/brand/.cache/postsDatas.json`),
+    categories: path.join(`${appRoot}`, `/brand/.cache/allPostsData.json`),
     scheduledPostsFile: path.join(
       `${appRoot}`,
-      `/content/.cache/scheduledPosts.json`
+      `/brand/.cache/scheduledPosts.json`
     ),
-    draftsPath: path.join(`${appRoot}`, `/content/ai_drafts`),
-    contentPath: path.join(`${appRoot}`, `/content`),
-    authorsDataFile: path.join(
-      `${appRoot}`,
-      `/content/.cache/authorsData.json`
-    ),
-    aiFile: path.join(`${appRoot}`, `/content/settings/ai.json`),
-    autoPostFile: path.join(`${appRoot}`, `/content/settings/autoPost.json`),
-    generalFile: path.join(`${appRoot}`, `/content/settings/general.json`),
+    draftsPath: path.join(`${appRoot}`, `/brand/ai_drafts`),
+    contentPath: path.join(`${appRoot}`, `/brand`),
+    authorsDataFile: path.join(`${appRoot}`, `/brand/.cache/authorsData.json`),
+    aiFile: path.join(`${appRoot}`, `/brand/settings/ai.json`),
+    autoPostFile: path.join(`${appRoot}`, `/brand/settings/autoPost.json`),
+    generalFile: path.join(`${appRoot}`, `/brand/settings/general.json`),
     integrationsFile: path.join(
       `${appRoot}`,
-      `/content/settings/integrations.json`
+      `/brand/settings/integrations.json`
     ),
-    logosFile: path.join(`${appRoot}`, `/content/settings/logos.json`),
-    themeFile: path.join(`${appRoot}`, `/content/settings/theme.json`),
-    businessFile: path.join(`${appRoot}`, `/content/settings/business.json`),
-    versionFile: path.join(`${appRoot}`, `/content/settings/version.json`),
-    stylesPath: path.join(`${appRoot}`, `/content/styles`),
-    publicSourcePath: path.join(`${appRoot}`, `/content/public`),
+    logosFile: path.join(`${appRoot}`, `/brand/settings/logos.json`),
+    themeFile: path.join(`${appRoot}`, `/brand/settings/theme.json`),
+    businessFile: path.join(`${appRoot}`, `/brand/settings/business.json`),
+    versionFile: path.join(`${appRoot}`, `/brand/settings/version.json`),
+    stylesPath: path.join(`${appRoot}`, `/brand/styles`),
+    publicSourcePath: path.join(`${appRoot}`, `/brand/public`),
     destinationSourcePath: path.join(`${appRoot}`, `/blog/public`),
     workflowsDir: path.join(`${appRoot}`, `/.github/workflows`),
   },

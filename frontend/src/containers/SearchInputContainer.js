@@ -1,7 +1,7 @@
 import React from "react";
 import SearchInput from "../components/SearchInput";
-const general = require("../../../content/settings/general.json");
-const custom = require("../../../content/settings/custom.json");
+const general = require("../../../brand/settings/general.json");
+const custom = require("../../../brand/settings/custom.json");
 
 const SearchInputContainer = () => {
   const siteUrl = general.siteUrl.split("https://")[1];

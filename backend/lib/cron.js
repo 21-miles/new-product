@@ -1,6 +1,6 @@
 const rootFolder = require("app-root-path");
-const contentFolder = rootFolder + `/content`;
-const version = require(`${contentFolder}/settings/version`);
+const brandFolder = rootFolder + `/brand`;
+const version = require(`${brandFolder}/settings/version`);
 
 const schedulePost = (cronSchedule, version) => `
 name: Commit Cron Job To Trigger Netlify Build
@@ -42,7 +42,7 @@ jobs:
           git config --global user.name '${version.gitUser}'
           git config --global user.email '${version.gitEmail}'
           git pull
-          git add content/public/*.xml .github/workflows/*.yml
+          git add brand/public/*.xml .github/workflows/*.yml
           git status
           git commit -m '✔️ [Cron Job]: Post generated files commited.'
           git push https://$GITHUB_TOKEN@github.com/${version.gitUser}/${version.gitRepo}.git HEAD:master

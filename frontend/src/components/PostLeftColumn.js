@@ -13,7 +13,7 @@ import {
   EmailShareButton,
   EmailIcon,
 } from "next-share";
-import general from "@/content/settings/general.json";
+import general from "@/brand/settings/general.json";
 // import { FacebookShare } from "react-share-kit";
 import { usePathname } from "next/navigation";
 

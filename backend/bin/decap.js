@@ -31,7 +31,7 @@ slug:
 collections:
   - name: post
     label: Posts
-    folder: content/posts
+    folder: brand/posts
     label_singular: Post
     view_groups:
       - label: Authors
@@ -89,7 +89,7 @@ collections:
   - name: pages
     label: Pages
     label_singular: "Page"
-    folder: content/pages
+    folder: brand/pages
     create: true
     # adding a nested object will show the collection folder structure
     slug: "{{slug}}"
@@ -107,7 +107,7 @@ collections:
       - { label: "Description", name: pageDescription, widget: "string" }
   - name: "ai_drafts"
     label: "Prompts"
-    folder: "content/ai_drafts"
+    folder: "brand/ai_drafts"
     create: true
     editor:
       preview: false
@@ -124,7 +124,7 @@ collections:
       - { label: "Category", name: "category", widget: "string", required: false }
   - name: "ai_authors"
     label: "Authors"
-    folder: "content/ai_authors"
+    folder: "brand/ai_authors"
     create: true
     editor:
       preview: false
@@ -140,7 +140,7 @@ collections:
     files:
       - name: "autoPost"
         label: "Auto Post"
-        file: "content/settings/autoPost.json"
+        file: "brand/settings/autoPost.json"
         description: "Automatic posting functionality"
         fields:
           - label: "Auto Posts - References"
@@ -234,7 +234,7 @@ collections:
             required: true
       - name: "ai"
         label: "A.I. Settings"
-        file: "content/settings/ai.json"
+        file: "brand/settings/ai.json"
         description: "A.I. Settings"
         fields:
           - label: "Generate New Post"
@@ -279,7 +279,7 @@ collections:
             required: false
       - name: "integrations"
         label: "Third-Party Integrations"
-        file: "content/settings/integrations.json"
+        file: "brand/settings/integrations.json"
         description: "Integrations Settings"
         fields:
           - label: "Cloudinary"
@@ -340,7 +340,7 @@ collections:
                 }              
       - name: "business"
         label: "Business Settings"
-        file: "content/settings/business.json"
+        file: "brand/settings/business.json"
         description: "Business Settings"
         fields:
           - label: "Brand Name"
@@ -368,7 +368,7 @@ collections:
             required: false
       - name: "theme"
         label: "Theme Settings"
-        file: "content/settings/theme.json"
+        file: "brand/settings/theme.json"
         description: "General Site Settings"
         fields:
           - label: "General Settings"
@@ -572,7 +572,7 @@ collections:
                 }
       - name: "general"
         label: "Site Settings"
-        file: "content/settings/general.json"
+        file: "brand/settings/general.json"
         description: "General Site Settings"
         fields:
           - label: "Home Category"
@@ -638,7 +638,7 @@ collections:
             hint: "Hmm... something is wrong, try again later or e-mail us: general@boilerplate-timess.com"
       - name: "logos"
         label: "Logos Upload"
-        file: "content/settings/logos.json"
+        file: "brand/settings/logos.json"
         description: "Logos Upload"
         fields:
           - label: "Main Logo"
@@ -675,7 +675,7 @@ collections:
             required: true
       - name: "mainMenu"
         label: "Main Menu"
-        file: "content/settings/mainMenu.json"
+        file: "brand/settings/mainMenu.json"
         description: "Main Menu Settings"
         fields:
           - label: "Main Menu"
@@ -692,7 +692,7 @@ collections:
               - { label: "Href", name: href, widget: "string" }
       - name: "linkTree"
         label: "Link Tree"
-        file: "content/settings/linkTree.json"
+        file: "brand/settings/linkTree.json"
         description: "Link Tree Settings"
         fields:
           - label: "Link Tree"
@@ -709,7 +709,7 @@ collections:
               - { label: "Href", name: href, widget: "string" }
       - name: "custom"
         label: "Custom Settings"
-        file: "content/settings/custom.json"
+        file: "brand/settings/custom.json"
         description: "Business Settings"
         fields:
           - label: "RampJS - Segment"
@@ -727,7 +727,7 @@ collections:
             required: false
       - name: "version"
         label: "Version"
-        file: "content/settings/json"
+        file: "brand/settings/json"
         description: "Version update"
         fields:
           - label: "Check to Update"

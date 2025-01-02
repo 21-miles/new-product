@@ -24,7 +24,7 @@ async function createNetlifyBuildYML(postDate) {
     __dirname,
     `${rootFolder}/.github/workflows/netlify-build-${dateString}.yml`
   );
-  const version = require("@/content/settings/version.json");
+  const version = require("@/brand/settings/version.json");
   // Verificar se o arquivo já existe
   if (fs.existsSync(filePath)) {
     console.log(

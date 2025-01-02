@@ -1,8 +1,8 @@
 // const path = require("path");
 const appRoot = require("app-root-path");
-const contentFolder = appRoot + `/content`;
+const brandFolder = appRoot + `/brand`;
 // Load configuration and data files
-const authorsJson = require(contentFolder + "/.cache/authorsData.json");
+const authorsJson = require(brandFolder + "/.cache/authorsData.json");
 
 /**
  * Generates prompts for post creation.

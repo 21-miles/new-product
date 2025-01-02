@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "docs": "jsdoc -r ./src -d ../content/docs/jsdocs -R ../content/docs/jsdocs/README.md",
+    "docs": "jsdoc -r ./src -d ../brand/docs/jsdocs -R ../brand/docs/jsdocs/README.md",
     "start": "next start",
     "dev": "next dev",
     "build": "next build",

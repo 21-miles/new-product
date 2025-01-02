@@ -2,7 +2,7 @@ const fs = require("fs-extra");
 var rootFolder = require("app-root-path");
 // const path = require("path");
 
-const publicSourceFolder = rootFolder + `/content/public`;
+const publicSourceFolder = rootFolder + `/brand/public`;
 const destinationSourceFolder =
   rootFolder + `node_modules/digest-it/blog/public`;
 

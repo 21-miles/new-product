@@ -2,7 +2,7 @@ const fs = require("fs-extra");
 const path = require("path");
 const rootFolder = require("app-root-path");
 const logger = require("../config/logger");
-const taxonomy = require("../../content/settings/taxonomy.json"); // Import taxonomy
+const taxonomy = require("../../brand/settings/taxonomy.json"); // Import taxonomy
 const baseTemplate = require("../bin/base-template"); // Import base template
 
 class TemplateVerifier {

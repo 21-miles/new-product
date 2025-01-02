@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import theme from "@/content/settings/theme.json";
+import theme from "@/brand/settings/theme.json";
 
 const ScrollTop = ({ right, bottom }) => {
   const [scrollState, setScrollState] = useState(false);

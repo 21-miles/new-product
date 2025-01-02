@@ -2,8 +2,8 @@ import React from "react";
 import { useRouter } from "next/router";
 import { fetchData, fetchCategoryData } from "@/src/lib/dataFetchers";
 import { renderComponent } from "@/src/lib/renderComponent";
-import taxonomy from "@/content/settings/taxonomy.json"; // Import taxonomy
-import categories from "@/content/.cache/allPostsCategories.json"; // Import categories
+import taxonomy from "@/brand/settings/taxonomy.json"; // Import taxonomy
+import categories from "@/brand/.cache/allPostsCategories.json"; // Import categories
 
 const DynamicPage = (mdFile) => {
   const router = useRouter();
@@ -67,11 +67,9 @@ export const getStaticPaths = async () => {
   const paths = [];
 
   for (const [folder, slugPrefix] of Object.entries(taxonomy)) {
-    const data = require(
-      `@/content/.cache/all${
-        folder.charAt(0).toUpperCase() + folder.slice(1)
-      }Data.json`
-    );
+    const data = require(`@/brand/.cache/all${
+      folder.charAt(0).toUpperCase() + folder.slice(1)
+    }Data.json`);
     const slugs = data[folder]
       .filter((item) => !item.frontmatter.draft)
       .map((item) => (slugPrefix ? `${slugPrefix}/${item.slug}` : item.slug));

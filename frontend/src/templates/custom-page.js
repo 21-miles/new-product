@@ -1,8 +1,8 @@
 import React, { useState } from "react";
 
-import general from "@/content/settings/general.json";
-import integrations from "@/content/settings/integrations.json";
-import business from "@/content/settings/business.json";
+import general from "@/brand/settings/general.json";
+import integrations from "@/brand/settings/integrations.json";
+import business from "@/brand/settings/business.json";
 
 import SeoContainer from "@/containers/SeoContainer";
 import HeaderContainer from "@/containers/HeaderContainer";

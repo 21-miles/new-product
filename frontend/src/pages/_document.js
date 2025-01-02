@@ -1,8 +1,8 @@
 import React from "react";
 import Document, { Html, Head, Main, NextScript } from "next/document";
 
-import logos from "@/content/settings/logos.json";
-import theme from "@/content/settings/theme.json";
+import logos from "@/brand/settings/logos.json";
+import theme from "@/brand/settings/theme.json";
 
 export default class MyDocument extends Document {
   static async getInitialProps(ctx) {

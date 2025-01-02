@@ -75,11 +75,11 @@ node_modules
 .netlify
 deno.lock
 # content
-content
+# brand/public
 
-# content/public/*.xml
-# content/public/admin/config.yml
-# # content/public/amp/*
+# brand/public/*.xml
+# brand/public/admin/config.yml
+# # brand/public/amp/*
 
 # workflows
 .github

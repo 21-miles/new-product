@@ -13,7 +13,7 @@
     "atom": "node ./triggers/atom.js",
     "autogpt": "node ./triggers/chatGPT-auto.js",
     "chatgpt": "node ./triggers/chatGPT.js",
-    "content": "node ./triggers/content.js",
+    "content": "node ./triggers/brand.js",
     "decap": "node ./triggers/decap.js",
     "schedule": "node ./triggers/post-schedule.js",
     "rss": "node ./triggers/rss.js",

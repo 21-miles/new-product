@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import version from "@/content/settings/version";
+import version from "@/brand/settings/version";
 const RestrictedPage = ({ setPassword }) => {
   const handleSubmit = async (event) => {
     event.preventDefault();

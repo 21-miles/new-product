@@ -18,14 +18,14 @@ class StreamCacheData {
   }
 
   async importCacheFiles(fileName) {
-    const cacheDir = path.join(appRoot.path, "content/.cache");
+    const cacheDir = path.join(appRoot.path, "brand/.cache");
     const filePath = path.join(cacheDir, fileName);
     logger.info(`Importando arquivo de cache: ${filePath}`);
     return fs.readJson(filePath);
   }
 
   async writeMarkdownFile(type, slug, content) {
-    const dir = path.join(appRoot.path, `content/${type}`);
+    const dir = path.join(appRoot.path, `brand/${type}`);
     const filePath = path.join(dir, `${slug}.md`);
     logger.info(`Escrevendo arquivo Markdown: ${filePath}`);
     await fs.outputFile(filePath, content);
@@ -33,7 +33,7 @@ class StreamCacheData {
   }
 
   async deleteMarkdownFile(type, slug) {
-    const dir = path.join(appRoot.path, `content/${type}`);
+    const dir = path.join(appRoot.path, `brand/${type}`);
     const filePath = path.join(dir, `${slug}.md`);
     logger.info(`Deletando arquivo Markdown: ${filePath}`);
     await fs.remove(filePath);
@@ -42,7 +42,7 @@ class StreamCacheData {
 
   async syncJson(type) {
     logger.info(`Sincronizando JSON para o tipo: ${type}`);
-    const dir = path.join(appRoot.path, `content/.cache`);
+    const dir = path.join(appRoot.path, `brand/.cache`);
     const filePath = path.join(
       dir,
       `all${type.charAt(0).toUpperCase() + type.slice(1)}Data.json`
@@ -165,7 +165,7 @@ class StreamCacheData {
       try {
         const { type } = req.params;
         const { slug, content } = req.body;
-        const dir = path.join(appRoot.path, `content/${type}`);
+        const dir = path.join(appRoot.path, `brand/${type}`);
         const filePath = path.join(dir, `${slug}.md`);
 
         logger.info(

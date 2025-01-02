@@ -5,9 +5,9 @@ import { usePathname } from "next/navigation";
 import { ThemeProvider, useTheme } from "next-themes";
 
 import "../styles/styles.scss";
-// import postsData from "@/content/.cache/allPostsData.json";
-import general from "@/content/settings/general.json";
-import integrations from "@/content/settings/integrations.json";
+// import postsData from "@/brand/.cache/allPostsData.json";
+import general from "@/brand/settings/general.json";
+import integrations from "@/brand/settings/integrations.json";
 // import CookieConsent from "react-cookie-consent";
 import { CampaignProvider } from "@/services/context";
 function App({ Component, pageProps }) {

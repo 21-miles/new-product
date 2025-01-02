@@ -2,11 +2,11 @@ import React from "react";
 import Link from "next/link";
 import Image from "next/image";
 import DarkModeContainer from "../containers/DarkModeContainer";
-import mainMenu from "@/content/settings/mainMenu.json";
-import general from "@/content/settings/general.json";
-import theme from "@/content/settings/theme.json";
-import logos from "@/content/settings/logos.json";
-import postsData from "@/content/.cache/allPostsData.json";
+import mainMenu from "@/brand/settings/mainMenu.json";
+import general from "@/brand/settings/general.json";
+import theme from "@/brand/settings/theme.json";
+import logos from "@/brand/settings/logos.json";
+import postsData from "@/brand/.cache/allPostsData.json";
 import slugify from "../lib/slugify";
 const Header = ({
   hasMenu,

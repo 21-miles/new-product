@@ -1,7 +1,7 @@
 import React from "react";
 import { fetchData } from "@/src/lib/dataFetchers";
 import { renderComponent } from "@/src/lib/renderComponent";
-import taxonomy from "@/content/settings/taxonomy.json"; // Import taxonomy
+import taxonomy from "@/brand/settings/taxonomy.json"; // Import taxonomy
 
 const Post = (mdFile) => {
   // console.log("mdFile:", mdFile);
@@ -38,7 +38,7 @@ export const getStaticPaths = async () => {
   const paths = [];
 
   for (const [folder, slugPrefix] of Object.entries(taxonomy)) {
-    const data = require(`@/content/.cache/all${
+    const data = require(`@/brand/.cache/all${
       folder.charAt(0).toUpperCase() + folder.slice(1)
     }Data.json`);
     const slugs = data[folder]

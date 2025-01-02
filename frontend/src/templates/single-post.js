@@ -3,9 +3,9 @@ import { usePathname, useSearchParams } from "next/navigation";
 import { parse } from "node-html-parser";
 import { useCampaignContext } from "../services/context";
 
-import business from "@/content/settings/business.json";
-import general from "@/content/settings/general.json";
-import integrations from "@/content/settings/integrations.json";
+import business from "@/brand/settings/business.json";
+import general from "@/brand/settings/general.json";
+import integrations from "@/brand/settings/integrations.json";
 
 import SeoContainer from "@/containers/SeoContainer";
 import PostContainer from "@/containers/PostContainer";

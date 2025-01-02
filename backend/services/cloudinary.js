@@ -2,7 +2,7 @@
 // const cloudinary = require("cloudinary").v2;
 // const debugMe = require("../utils/debug-me");
 
-// // const integrations = require(contentFolder + "/settings/integrations.json");
+// // const integrations = require(brandFolder + "/settings/integrations.json");
 // // const env = path.join(__dirname, "../../../../.env");
 // // require("dotenv").config({
 // //   path: env,

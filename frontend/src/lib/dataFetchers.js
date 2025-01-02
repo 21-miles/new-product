@@ -1,6 +1,6 @@
 import { getDataBySlug, getDraftDataBySlug } from "./getDatas";
 import markdownToHtml from "./markdownToHtml";
-import postsData from "@/content/.cache/allPostsData.json";
+import postsData from "@/brand/.cache/allPostsData.json";
 import slugify from "../lib/slugify";
 
 export async function fetchData(slug) {

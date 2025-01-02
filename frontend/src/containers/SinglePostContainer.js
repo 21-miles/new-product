@@ -1,8 +1,8 @@
 import React, { useEffect, useState, useRef } from "react";
 
 import SinglePostWrapper from "@/components/SinglePostWrapper";
-import allPostsData from "@/content/.cache/allPostsData.json";
-import custom from "@/content/settings/custom.json";
+import allPostsData from "@/brand/.cache/allPostsData.json";
+import custom from "@/brand/settings/custom.json";
 
 const SinglePostContainer = ({
   highlightImage,

@@ -1,0 +1,23 @@
+{
+  "aiUrlFrequency": "Every (n) days",
+  "weeklyPostDay": "Thursday",
+  "everyXDays": 3,
+  "autoPostHourTime": 7,
+  "autoPostMinutesTime": 0,
+  "timezone": "UTC-08:00 (Los Angeles, Pacific Time)",
+  "aiUrlSource": [
+    {
+      "href": "https://www.globo.com"
+    },
+    {
+      "href": "https://www.uol.com.br"
+    },
+    {
+      "href": "https://www.band.uol.com.br"
+    },
+    {
+      "href": "https://www.r7.com/"
+    }
+  ],
+  "newPost": false
+}

@@ -3,17 +3,17 @@
 // const fetch = require("cross-fetch");
 // const path = require("path");
 // const matter = require("gray-matter"); // Importando 'matter'
-// const contentFolder = path.join(__dirname, "../../../content");
+// const brandFolder = path.join(__dirname, "../../../brand");
 
 // require("dotenv").config({
-//   path: contentFolder + "/.env.development",
+//   path: brandFolder + "/.env.development",
 // });
 
-// const cachePath = path.join(contentFolder, "cache");
-// const aiSettingsPath = path.join(contentFolder, "settings/ai.json");
-// const authorsFolder = path.join(contentFolder, "ai_authors");
-// const allPostsData = path.join(contentFolder, "cache/allPostsData.json");
-// const postsData = path.join(contentFolder, "cache/postsData.json");
+// const cachePath = path.join(brandFolder, "cache");
+// const aiSettingsPath = path.join(brandFolder, "settings/ai.json");
+// const authorsFolder = path.join(brandFolder, "ai_authors");
+// const allPostsData = path.join(brandFolder, "cache/allPostsData.json");
+// const postsData = path.join(brandFolder, "cache/postsData.json");
 // const aiSettings = require(aiSettingsPath);
 
 // // Função para ler e atualizar o ai.json

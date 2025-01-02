@@ -2,7 +2,7 @@ import dynamic from "next/dynamic";
 import SinglePost from "@/src/templates/single-post";
 import SinglePage from "@/src/templates/single-page";
 import CategoryPage from "@/src/templates/category-page";
-import taxonomy from "@/content/settings/taxonomy.json"; // Import taxonomy
+import taxonomy from "@/brand/settings/taxonomy.json"; // Import taxonomy
 
 const componentMap = {
   posts: SinglePost,

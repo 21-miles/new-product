@@ -2,11 +2,11 @@ import React from "react";
 import Link from "next/link";
 import Image from "next/image";
 
-import logos from "@/content/settings/logos.json";
-import mainMenu from "@/content/settings/mainMenu.json";
-import general from "@/content/settings/general.json";
-import business from "@/content/settings/business.json";
-import theme from "@/content/settings/theme.json";
+import logos from "@/brand/settings/logos.json";
+import mainMenu from "@/brand/settings/mainMenu.json";
+import general from "@/brand/settings/general.json";
+import business from "@/brand/settings/business.json";
+import theme from "@/brand/settings/theme.json";
 
 const Footer = ({ topCategories }) => {
   return (

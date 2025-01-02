@@ -2,7 +2,7 @@
   "compilerOptions": {
     "paths": {
       "@/*": ["./*"],
-      "@/content/*": ["../content/*"],
+      "@/brand/*": ["../brand/*"],
       "@/components/*": ["./src/components/*"],
       "@/containers/*": ["./src/containers/*"],
       "@/services/*": ["./src/services/*"]

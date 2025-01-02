@@ -3,8 +3,8 @@ import Link from "next/link";
 import Image from "next/image";
 import slugify from "slugify";
 
-import theme from "@/content/settings/theme.json";
-import logos from "@/content/settings/logos.json";
+import theme from "@/brand/settings/theme.json";
+import logos from "@/brand/settings/logos.json";
 import { useCampaignContext } from "@/services/context";
 import TOCContainer from "@/containers/TOCContainer";
 

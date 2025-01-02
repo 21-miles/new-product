@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/brand/" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Modern Tips Atom Feed</title>
         <link>https://moderntips.com/</link>
@@ -62,7 +62,7 @@
 <li><a href="https://www.webmd.com/diet/health-benefits-oatmeal">Oatmeal: Benefits Beyond Heart Health</a></li>
 <li><a href="https://www.medicalnewstoday.com/articles/316728">Dark Chocolate and Brain Function</a></li>
 <li><a href="https://www.avocadofruitoflife.com/subscribe/publications/cholesterol">Avocados and Cholesterol</a></li>
-</ol>]]></content:encoded>
+</ol>]]></brand:encoded>
             <author>general@moderntips.com (Emily Hart)</author>
             <enclosure url="https://moderntips.com/https://res.cloudinary.com/dj0et6kq4/image/upload/v1732288617/moderntips/ai/het3mzakufxrphjuz8yi.png" length="0" type="image/png"/>
         </item>
@@ -91,7 +91,7 @@
 <li><a href="https://www.psoriasis.org">Psoriasis Foundation: Aloe Vera</a></li>
 <li><a href="https://www.healthline.com">Healthline: Tea Tree Oil Benefits</a></li>
 <li><a href="https://www.psoriasis.org/natural-remedies">National Psoriasis Foundation: Natural Options</a></li>
-</ol>]]></content:encoded>
+</ol>]]></brand:encoded>
             <author>general@moderntips.com (Emily Hart)</author>
             <enclosure url="https://moderntips.com/https://res.cloudinary.com/dj0et6kq4/image/upload/v1731013515/moderntips/ai/rkjvfvd3ucbfpc8zkui0.png" length="0" type="image/png"/>
         </item>
@@ -239,7 +239,7 @@
 <li>By email: info@moderntips.com</li>
 <li>By visiting this page on our website: https://www.moderntips.com/about/</li>
 <li>By mail: PO Box 515381, Los Angeles, CA 90051-6681</li>
-</ul>]]></content:encoded>
+</ul>]]></brand:encoded>
             <author>general@moderntips.com (Modern Tips)</author>
             <enclosure url="https://moderntips.com/https://res.cloudinary.com/dj0et6kq4/image/upload/v1725537988/moderntips/assets/mt_cover_1_w0m81h.png" length="0" type="image/png"/>
         </item>
@@ -280,7 +280,7 @@
 <p>By continuing to access or use our Service after any revisions become effective, you agree to be bound by the revised terms. If you do not agree to the new terms, you are no longer authorized to use the Service.</p>
 <p><strong>ModernTips</strong></p>
 <p><em>PO Box 515381</em></p>
-<p><em>Los Angeles, CA 90051</em></p>]]></content:encoded>
+<p><em>Los Angeles, CA 90051</em></p>]]></brand:encoded>
             <author>general@moderntips.com (Modern Tips)</author>
             <enclosure url="https://moderntips.com/https://res.cloudinary.com/dj0et6kq4/image/upload/v1725537988/moderntips/assets/mt_cover_1_w0m81h.png" length="0" type="image/png"/>
         </item>
@@ -298,7 +298,7 @@
 <p>ModernTips<br />
 PO Box 515381<br />
 Los Angeles, CA 90051-6681<br />
-<a href="mailto:mailinfo@moderntips.com">info@moderntips.com</a></p>]]></content:encoded>
+<a href="mailto:mailinfo@moderntips.com">info@moderntips.com</a></p>]]></brand:encoded>
             <author>general@moderntips.com (Modern Tips)</author>
             <enclosure url="https://moderntips.com/https://res.cloudinary.com/dj0et6kq4/image/upload/v1725537988/moderntips/assets/mt_cover_1_w0m81h.png" length="0" type="image/png"/>
         </item>
@@ -310,7 +310,7 @@ Los Angeles, CA 90051-6681<br />
             <description><![CDATA[ModernTips.com has a financial relationship with some of the companies mentioned throughout the site and this site may be compensated through the credit card issuer or advertiser’s partner programs.]]></description>
             <content:encoded><![CDATA[<p>moderntips.com has a financial relationship with some of the companies mentioned throughout the site and this site may be compensated through the credit card issuer or advertiser’s partner programs. We do not make recommendations based on these relationships alone. Compensation may impact which companies we review and write about and how and where products appear on this site (including, for example, the order in which they appear).</p>
 <h2 id="disclaimer">Disclaimer:</h2>
-<p>We try to keep information accurate and up to date, however we cannot make warranties regarding the accuracy of our information. Opinions expressed here are author’s alone, not those of the financial institution, lender, credit card issuer, advertiser, business, service provider, etc. and have not been reviewed, approved, or otherwise endorsed by the respective company. Please verify FDIC Insurance / NCUA Insurance status, credit card information, and interest rates during the application process. We strongly suggest you read the terms of use and privacy policies of advertised companies as they may be substantially different than Modern Tips policies.</p>]]></content:encoded>
+<p>We try to keep information accurate and up to date, however we cannot make warranties regarding the accuracy of our information. Opinions expressed here are author’s alone, not those of the financial institution, lender, credit card issuer, advertiser, business, service provider, etc. and have not been reviewed, approved, or otherwise endorsed by the respective company. Please verify FDIC Insurance / NCUA Insurance status, credit card information, and interest rates during the application process. We strongly suggest you read the terms of use and privacy policies of advertised companies as they may be substantially different than Modern Tips policies.</p>]]></brand:encoded>
             <author>general@moderntips.com (Modern Tips)</author>
             <enclosure url="https://moderntips.com/https://res.cloudinary.com/dj0et6kq4/image/upload/v1725537988/moderntips/assets/mt_cover_1_w0m81h.png" length="0" type="image/png"/>
         </item>

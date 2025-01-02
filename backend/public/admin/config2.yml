@@ -21,7 +21,7 @@ slug:
 collections:
   - name: post
     label: Posts
-    folder: content/posts
+    folder: brand/posts
     label_singular: Post
     description: >
       Markdown posts.
@@ -72,7 +72,7 @@ collections:
   - name: pages
     label: Pages
     label_singular: "Page"
-    folder: content/pages
+    folder: brand/pages
     create: true
     # adding a nested object will show the collection folder structure
     slug: "{{slug}}"
@@ -96,7 +96,7 @@ collections:
     files:
       - name: "business"
         label: "Business Settings"
-        file: "content/.cache/business.json"
+        file: "brand/.cache/business.json"
         description: "Business Settings"
         fields:
           - label: "Brand Name"
@@ -124,7 +124,7 @@ collections:
             required: false
       - name: "general"
         label: "Site Settings"
-        file: "content/.cache/general.json"
+        file: "brand/.cache/general.json"
         description: "General Site Settings"
         fields:
           - label: "Publish Date"
@@ -205,7 +205,7 @@ collections:
             hint: "Hmm... something is wrong, try again later or e-mail us: general@boilerplate-timess.com"
       - name: "theme"
         label: "Theme Settings"
-        file: "content/.cache/theme.json"
+        file: "brand/.cache/theme.json"
         description: "General Site Settings"
         fields:
           - label: "General Settings"
@@ -384,7 +384,7 @@ collections:
                 }
       - name: "logos"
         label: "Logos Upload"
-        file: "content/.cache/logos.json"
+        file: "brand/.cache/logos.json"
         description: "Logos Upload"
         fields:
           - label: "Main Logo"
@@ -421,7 +421,7 @@ collections:
             required: true
       - name: "mainMenu"
         label: "Main Menu"
-        file: "content/.cache/mainMenu.json"
+        file: "brand/.cache/mainMenu.json"
         description: "Main Menu Settings"
         fields:
           - label: "Main Menu"
@@ -438,7 +438,7 @@ collections:
               - { label: "Href", name: href, widget: "string" }
       - name: "linkTree"
         label: "Link Tree"
-        file: "content/.cache/linkTree.json"
+        file: "brand/.cache/linkTree.json"
         description: "Link Tree Settings"
         fields:
           - label: "Link Tree"
@@ -455,7 +455,7 @@ collections:
               - { label: "Href", name: href, widget: "string" }
       - name: "custom"
         label: "Custom Settings"
-        file: "content/.cache/custom.json"
+        file: "brand/.cache/custom.json"
         description: "Business Settings"
         fields:
           - label: "RampJS - Segment"

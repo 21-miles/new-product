@@ -1,7 +1,7 @@
 import React, { useState, useRef } from "react";
 import { useCampaignContext } from "../services/context";
 
-import logos from "@/content/settings/logos.json";
+import logos from "@/brand/settings/logos.json";
 
 import Header from "@/components/Header";
 

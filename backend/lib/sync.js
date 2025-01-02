@@ -24,12 +24,12 @@ const path = require("path");
 const slugify = require("../utils/slugify");
 const showdown = require("showdown");
 const rootFolder = require("app-root-path");
-const contentFolder = rootFolder + `/content`;
+const brandFolder = rootFolder + `/brand`;
 
-const postFolder = contentFolder + "/posts";
-const pageFolder = contentFolder + "/pages";
-const promptFolder = contentFolder + "/ai_drafts";
-const authorFolder = contentFolder + "/ai_authors";
+const postFolder = brandFolder + "/posts";
+const pageFolder = brandFolder + "/pages";
+const promptFolder = brandFolder + "/ai_drafts";
+const authorFolder = brandFolder + "/ai_authors";
 
 function* readMDFiles(dir, type) {
   const files = fs.readdirSync(dir, { withFileTypes: true });
@@ -202,7 +202,7 @@ async function createJsonAllMDFiles() {
   });
 
   const writeJson = (fileName, data, description) => {
-    const filePath = path.join(contentFolder, ".cache/" + fileName);
+    const filePath = path.join(brandFolder, ".cache/" + fileName);
     // if (fileName === "prompts.json") {
     //   console.log("data:::::::::::");
     //   console.log(data);

@@ -94,7 +94,7 @@ function savePostContent(
   postContent,
   aiResponse,
   draftFilePath,
-  contentFolder,
+  brandFolder,
   autoPost,
   debug
 ) {
@@ -102,11 +102,11 @@ function savePostContent(
     postContent,
     aiResponse,
     draftFilePath,
-    contentFolder,
+    brandFolder,
     autoPost,
   });
 
-  const postFilePath = path.join(contentFolder, "/posts");
+  const postFilePath = path.join(brandFolder, "/posts");
   const postSlug = slugify(aiResponse?.title);
   const postFilename = `${postSlug || "fail-post"}.md`;
   console.log("postFilePath");

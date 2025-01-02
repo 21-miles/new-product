@@ -3,12 +3,12 @@ const path = require("path");
 const logger = require("../config/logger");
 
 class JsonWriter {
-  constructor(contentFolder) {
-    this.contentFolder = contentFolder;
+  constructor(brandFolder) {
+    this.brandFolder = brandFolder;
   }
 
   writeJson(fileName, data, description) {
-    const filePath = path.join(this.contentFolder, ".cache/" + fileName);
+    const filePath = path.join(this.brandFolder, ".cache/" + fileName);
     try {
       fs.writeFileSync(filePath, data);
       logger.info(`✔️ [${description}] - ${fileName} stored successfully.`);

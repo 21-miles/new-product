@@ -1,13 +1,13 @@
-import draftJSON from "@/content/.cache/allPostsDraftMode.json";
-import scheduledPosts from "@/content/.cache/scheduledPosts.json";
-import taxonomy from "@/content/settings/taxonomy.json"; // Import taxonomy
+import draftJSON from "@/brand/.cache/allPostsDraftMode.json";
+import scheduledPosts from "@/brand/.cache/scheduledPosts.json";
+import taxonomy from "@/brand/settings/taxonomy.json"; // Import taxonomy
 
 export function getDataBySlug(slug) {
   console.log("getDataBySlug - slug:", slug);
   let fileContents = [];
 
   for (const [folder, slugPrefix] of Object.entries(taxonomy)) {
-    const data = require(`@/content/.cache/all${
+    const data = require(`@/brand/.cache/all${
       folder.charAt(0).toUpperCase() + folder.slice(1)
     }Data.json`);
     fileContents.push(...data[folder].filter((item) => item.slug === slug));

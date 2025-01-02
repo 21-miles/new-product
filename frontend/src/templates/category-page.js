@@ -7,12 +7,12 @@ import BlogList from "@/containers/BlogListContainer";
 import HeaderContainer from "@/containers/HeaderContainer";
 import FooterContainer from "@/containers/FooterContainer";
 
-import taxonomy from "@/content/settings/taxonomy.json";
-import linkTree from "@/content/settings/linkTree.json";
-import integrations from "@/content/settings/integrations.json";
-import business from "@/content/settings/business.json";
-import general from "@/content/settings/general.json";
-import theme from "@/content/settings/theme.json";
+import taxonomy from "@/brand/settings/taxonomy.json";
+import linkTree from "@/brand/settings/linkTree.json";
+import integrations from "@/brand/settings/integrations.json";
+import business from "@/brand/settings/business.json";
+import general from "@/brand/settings/general.json";
+import theme from "@/brand/settings/theme.json";
 import SearchInputContainer from "@/containers/SearchInputContainer";
 import Image from "next/image";
 import SeoContainer from "@/containers/SeoContainer";

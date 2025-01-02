@@ -293,7 +293,7 @@ npx digest-it update
   "atom": "node ./node_modules/digest-it/triggers/atom.js",
   "autogpt": "node ./node_modules/digest-it/triggers/chatGPT-auto.js",
   "chatgpt": "node ./node_modules/digest-it/triggers/chatGPT.js",
-  "content": "node ./node_modules/digest-it/triggers/content.js",
+  "content": "node ./node_modules/digest-it/triggers/brand.js",
   "decap": "node ./node_modules/digest-it/triggers/decap.js",
   "schedule": "node ./node_modules/digest-it/triggers/post-schedule.js",
   "rss": "node ./node_modules/digest-it/triggers/rss.js",

@@ -5,7 +5,7 @@ const logger = require("../config/logger");
 
 class FetchCacheData {
   async loadCacheData(context) {
-    const contentDir = path.join(appRoot.path, "content/.cache");
+    const contentDir = path.join(appRoot.path, "brand/.cache");
     const postsDataPath = path.join(contentDir, "allPostsData.json");
     const pagesDataPath = path.join(contentDir, "allPagesData.json");
 

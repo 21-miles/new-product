@@ -1,5 +1,5 @@
 import React from "react";
-import integrations from "@/content/settings/integrations.json";
+import integrations from "@/brand/settings/integrations.json";
 import { Adsense } from "@ctrl/react-adsense";
 import RelatedPostsContainer from "@/containers/RelatedPostsContainer";
 

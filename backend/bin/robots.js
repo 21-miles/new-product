@@ -1,8 +1,8 @@
 // const path = require("path");
 
-// const general = require("../../../../content/settings/general.json");
-// const contentFolder = path.join(__dirname, "../../../../content");
-// const cacheSourceFolder = path.join(contentFolder, "cache");
+// const general = require("../../../../brand/settings/general.json");
+// const brandFolder = path.join(__dirname, "../../../../brand");
+// const cacheSourceFolder = path.join(brandFolder, "cache");
 // const postsDatas = require(cacheSourceFolder + `/postsDatas.json`);
 // const pagesDatas = require(cacheSourceFolder + `/allPagesData.json`);
 

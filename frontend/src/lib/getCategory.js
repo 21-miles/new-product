@@ -1,4 +1,4 @@
-import postsDataJSON from "@/content/.cache/postsDatas.json";
+import postsDataJSON from "@/brand/.cache/postsDatas.json";
 
 // Função para contar e ordenar as categorias
 const getCategoryPostCount = () => {

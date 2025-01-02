@@ -1,10 +1,10 @@
 const fs = require("fs-extra");
 
-// const publicSourceFolder = `${appRoot}/content/public`;
-// const cacheSourceFolder = `${appRoot}/content/cache`;
+// const publicSourceFolder = `${appRoot}/brand/public`;
+// const cacheSourceFolder = `${appRoot}/brand/cache`;
 
-// const general = require(`${appRoot}/content/settings/general.json`);
-// const logos = require(`${appRoot}/content/settings/logos.json`);
+// const general = require(`${appRoot}/brand/settings/general.json`);
+// const logos = require(`${appRoot}/brand/settings/logos.json`);
 
 function sitemaps(scope) {
   return `<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/template.xsl"?>

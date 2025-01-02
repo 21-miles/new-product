@@ -1,9 +1,9 @@
 import React from "react";
 import Image from "next/image";
 
-import business from "@/content/settings/business.json";
-import general from "@/content/settings/general.json";
-import linkTree from "@/content/settings/linkTree.json";
+import business from "@/brand/settings/business.json";
+import general from "@/brand/settings/general.json";
+import linkTree from "@/brand/settings/linkTree.json";
 
 import SeoContainer from "@/containers/SeoContainer";
 import HeaderContainer from "@/containers/HeaderContainer";

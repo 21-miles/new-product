@@ -55,7 +55,9 @@ class DigestPipeline extends BasePipeline {
       }
 
       logger.info(
-        `🔄 - Configuração 'syncBuild' está ${this.configs.syncBuild ? "ativada" : "desativada"}.`
+        `🔄 - Configuração 'syncBuild' está ${
+          this.configs.syncBuild ? "ativada" : "desativada"
+        }.`
       );
       if (this.configs.syncBuild) {
         await syncPipeline.syncMarkdownToJson();
@@ -88,7 +90,7 @@ class DigestPipeline extends BasePipeline {
         logger.info("✅ - Exportação do output final concluída!");
       }
 
-      // Fetch data from content/.cache
+      // Fetch data from brand/.cache
       logger.info("🚀 - Carregando dados de cache...");
       await fetchCacheData.loadCacheData(context);
       logger.info("✅ - Dados de cache carregados com sucesso!");
@@ -111,7 +113,9 @@ class DigestPipeline extends BasePipeline {
 
       const endTime = Date.now();
       logger.info(
-        `🚀 - Pipeline concluído com sucesso em ${(endTime - startTime) / 1000}s!`
+        `🚀 - Pipeline concluído com sucesso em ${
+          (endTime - startTime) / 1000
+        }s!`
       );
     } catch (error) {
       logger.error("❌ - Erro durante a execução do pipeline:", error);

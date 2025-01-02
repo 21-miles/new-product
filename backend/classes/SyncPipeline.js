@@ -8,18 +8,18 @@ const fs = require("fs-extra");
 const path = require("path");
 const rootFolder = require("app-root-path");
 const logger = require("../config/logger");
-const taxonomy = require("../../content/settings/taxonomy.json"); // Import taxonomy
+const taxonomy = require("../../brand/settings/taxonomy.json"); // Import taxonomy
 const MarkdownProcessor = require("./MarkdownProcessor");
 const JsonWriter = require("./JsonWriter");
 const TemplateVerifier = require("./TemplateVerifier");
 
 class SyncPipeline {
-  constructor(config, contentFolder = rootFolder + `/content`) {
+  constructor(config, brandFolder = rootFolder + `/brand`) {
     this.config = config;
-    this.contentFolder = contentFolder;
+    this.brandFolder = brandFolder;
     this.folders = this.initializeFolders();
     this.markdownProcessor = new MarkdownProcessor();
-    this.jsonWriter = new JsonWriter(this.contentFolder);
+    this.jsonWriter = new JsonWriter(this.brandFolder);
     this.templateVerifier = new TemplateVerifier();
   }
 
@@ -27,34 +27,34 @@ class SyncPipeline {
     const folders = [];
     if (this.config.processPages) {
       folders.push({
-        path: path.join(this.contentFolder, "pages"),
+        path: path.join(this.brandFolder, "pages"),
         type: "pages",
       });
     }
     if (this.config.processPosts) {
       folders.push({
-        path: path.join(this.contentFolder, "posts"),
+        path: path.join(this.brandFolder, "posts"),
         type: "posts",
       });
     }
 
     if (this.config.processPrompt) {
       folders.push({
-        path: path.join(this.contentFolder, "ai_drafts"),
+        path: path.join(this.brandFolder, "ai_drafts"),
         type: "ai_drafts",
       });
     }
 
     if (this.config.processAiAuthors) {
       folders.push({
-        path: path.join(this.contentFolder, "ai_authors"),
+        path: path.join(this.brandFolder, "ai_authors"),
         type: "ai_authors",
       });
     }
     if (this.config.customFolders) {
       this.config.customFolders.forEach((folder) => {
         folders.push({
-          path: path.join(this.contentFolder, folder),
+          path: path.join(this.brandFolder, folder),
           type: folder,
         });
       });
