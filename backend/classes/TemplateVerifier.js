@@ -7,7 +7,7 @@ const baseTemplate = require("../bin/base-template"); // Import base template
 
 class TemplateVerifier {
   constructor() {
-    this.templateFolder = path.join(rootFolder.path, "blog/src/templates");
+    this.templateFolder = path.join(rootFolder.path, "frontend/src/templates");
   }
 
   verifyAndCreateCustomTemplates() {

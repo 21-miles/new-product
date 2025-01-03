@@ -61,6 +61,10 @@ class StreamCacheData {
   setupRoutes() {
     logger.info("Configurando rotas...");
 
+    this.app.get("/", (req, res) => {
+      res.status(200).send("Backend está funcionando!");
+    });
+
     this.app.get("/api/importCacheFiles/:fileName", async (req, res) => {
       try {
         logger.info(

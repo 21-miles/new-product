@@ -33,14 +33,14 @@ header {
     @media (max-width: $media960) {
       grid-template-columns: 1fr !important;
     }
-    align-items: center;
-    z-index: 9;
-    margin: 0 auto;
-
-    justify-content: space-between;
-
-    height: 60px;
-    padding: 0;
+    & {
+      align-items: center;
+      z-index: 9;
+      margin: 0 auto;
+      justify-content: space-between;
+      height: 60px;
+      padding: 0;
+    }
 
     .door {
       position: absolute;

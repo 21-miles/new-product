@@ -4,8 +4,8 @@
   "description": "web tools",
   "private": false,
   "workspaces": [
-    "blog",
-    "admin",
+    "frontend",
+    "dashboard",
     "backend"
   ],
   "main": "index.js",
@@ -13,15 +13,13 @@
     "digest-it": "CLI.js"
   },
   "scripts": {
+    "dev:backend": "nodemon --ignore '*.json' backend/server.js",
+    "dev:frontend": "wait-on http://localhost:4040 && npm run dev -w frontend",
+    "dev:dashboard": "wait-on http://localhost:4040 && npm run dev -w dashboard",
+    "dev": "concurrently \"npm run dev:backend\" \"wait-on http://localhost:4040\"  \"npm run dev:frontend\" \"npm run dev:dashboard\"",
     "export": "npm run export -w backend",
     "clean": "npm run clean -w backend",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "echo \"Error: handle that Milton\" && nodemon <arquivo-principal>.js",
-    "dev:backend": "nodemon backend/server.js",
-    "dev:backend:build": "npm run dev -w backend",
-    "dev:backend:server": "node backend/server.js",
-    "dev:blog": "echo 'Starting blog server...' && npm run dev -w blog",
-    "dev:admin": "echo 'Starting admin server...' && npm run dev -w admin",
     "build": "npm run build -w backend && npm run build -w blog && npm run export && npm run clean",
     "digest": "npm run digest -w backend",
     "atom": "npm run atom -w backend",
@@ -40,20 +38,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Edu4Dev/digest-it.git"
+    "url": "git+https://github.com/21miles/new-product.git"
   },
   "keywords": [
     "digest"
   ],
-  "author": "Milton Bolonha",
+  "author": "21 Miles - AI and Web Solutions",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Edu4Dev/digest-it/issues"
+    "url": "https://github.com/21miles/new-product/issues"
   },
-  "homepage": "https://github.com/Edu4Dev/digest-it#readme",
-  "dependencies": {},
+  "homepage": "https://github.com/21miles/new-product#readme",
   "devDependencies": {
-    "concurrently": "^9.1.1",
-    "npm-run-all": "^4.1.5"
+    "concurrently": "^9.1.2",
+    "wait-on": "^8.0.1"
   }
 }
