@@ -16,44 +16,44 @@ Version: 0.1.0-journal.1
 5.0 Helpers & Fixes
 --------------------------------------------------------------*/
 
-@use "./global/vars";
-@use "../../../brand/styles/user-vars";
-@use "./helpers/responsive";
+@import "./global/vars";
+@import "../../../brand/styles/user-vars";
+@import "./helpers/responsive";
 
 /*--------------------------------------------------------------
 1.0 Basic settings
 --------------------------------------------------------------*/
 
-@use "./global/generic";
-@use "./global/base";
-@use "./components/row";
-@use "./components/main-wrapper";
+@import "./global/generic";
+@import "./global/base";
+@import "./components/row";
+@import "./components/main-wrapper";
 
 /*--------------------------------------------------------------
 3.0 Components
 --------------------------------------------------------------*/
 
-@use "./components/header";
-@use "./components/footer";
+@import "./components/header";
+@import "./components/footer";
 
 /*--------------------------------------------------------------
 4.0 Modules
 --------------------------------------------------------------*/
 
-@use "./modules/menus";
-@use "./modules/pages";
-@use "./modules/single-post";
+@import "./modules/menus";
+@import "./modules/pages";
+@import "./modules/single-post";
 
 /*--------------------------------------------------------------
 2.0 Pages
 --------------------------------------------------------------*/
 
-@use "./pages/index";
+@import "./pages/index";
 
 /*--------------------------------------------------------------
 5.0 Helpers & Fixes
 --------------------------------------------------------------*/
 
-@use "./helpers/helpers";
-@use "../../../brand/styles/user-helpers.scss";
-@use "../../../brand/styles/CUSTOMIZE-ME.scss";
+@import "./helpers/helpers";
+@import "../../../brand/styles/user-helpers.scss";
+@import "../../../brand/styles/CUSTOMIZE-ME.scss";

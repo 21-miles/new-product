@@ -17,6 +17,10 @@
       "path": "./frontend",
     },
     {
+      "name": "Landings",
+      "path": "./landings",
+    },
+    {
       "name": "Root",
       "path": "./",
     },
