@@ -1,0 +1,398 @@
+img::selection {
+  background: transparent;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 15px;
+  max-height: 50px;
+  margin: 20px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #ebe8e2;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  border-radius: 30px;
+  border: 3px solid #ebe8e2;
+  background: #013334;
+}
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #5d5d5d;
+}
+html {
+  scroll-behavior: smooth;
+}
+body {
+  overflow-x: hidden;
+  overflow-y: auto;
+  background: url("/assets/images/background.png") repeat top left;
+  background-size: auto 900px;
+  scroll-behavior: smooth;
+}
+@media (max-width: 960px) {
+  body {
+    background-size: auto 250px;
+  }
+}
+.dark body {
+  background: url("/assets/images/dark-background-30.png") repeat top left;
+}
+
+.sed {
+  font-family: "Sedgwick Ave", cursive;
+}
+.workSans {
+  font-family: "Work Sans Variable", sans-serif;
+}
+p.workSans {
+  font-size: 18px;
+  font-weight: 400;
+}
+.dark p.workSans {
+  color: #fff;
+}
+
+h2.workSans {
+  font-size: 24px;
+  font-weight: 700;
+}
+.merriweather {
+  font-family: "Merriweather", serif;
+}
+.sedgwickAve {
+  font-family: "Sedgwick Ave", cursive;
+}
+h1.sedgwickAve {
+  font-size: 26px;
+  font-weight: 900;
+}
+
+.rammettoOne {
+  font-family: "Rammetto One", system-ui;
+}
+h1.rammettoOne {
+  font-size: 42px;
+  font-weight: 100;
+}
+.unkempt {
+  font-family: "Unkempt", system-ui;
+}
+h2.unkempt {
+  font-size: 26px;
+  font-weight: 100;
+}
+p.unkempt {
+  font-size: 22px;
+  font-weight: 600;
+}
+
+.bangers {
+  font-family: "Bangers", system-ui;
+}
+h1.bangers {
+  font-size: 26px;
+  font-weight: 900;
+}
+
+.h100 {
+  height: 100px;
+}
+.bg-muted {
+  background-color: #fff7d6;
+  border: 2px solid #e6ccb6;
+  box-shadow: 8px 8px 0 rgba(148, 126, 64, 0.1);
+}
+.bg-muted h3 {
+  color: #302a1e;
+}
+
+.bg-muted p {
+  color: #7a6a49;
+}
+.bg-muted .bg-primary {
+  background-color: #00c598;
+  color: #fff;
+}
+.primary-hover:hover {
+  background-color: hsl(var(--primary));
+  box-shadow: 4px 4px 0 rgba(148, 126, 64, 0.2);
+  color: #fff;
+}
+.green-hover:hover {
+  border-color: #71e99f;
+  background-color: rgb(211, 241, 223);
+  box-shadow: 4px 4px 0 rgba(148, 126, 64, 0.2);
+  color: #153120;
+}
+.logos-carousel {
+  align-self: center;
+}
+
+.gold-btn {
+  background-color: #00c598;
+  color: #000;
+  font-weight: 700;
+  font-size: 14px;
+  margin-bottom: 5px;
+  max-width: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding: 10px 0;
+  border-radius: 5px;
+}
+.gold-btn:hover {
+  color: white;
+}
+.testimonial-bg {
+  background-color: rgba(255, 252, 243, 0.9);
+  border: 2px solid #fff1d2;
+  box-shadow: unset;
+}
+@media (max-width: 720px) {
+  .testimonial-bg svg {
+    display: none;
+  }
+  .cta-btn {
+    flex-direction: column;
+  }
+  .testimonial h3 {
+    font-size: 16px;
+  }
+  .testimonial p.text-base {
+    font-size: 13px;
+    line-height: 18px;
+  }
+}
+.testimonial-wrapper .border-b {
+  border-color: #e4cc9e;
+}
+.anchor-hack {
+  position: relative;
+}
+.anchor-hack:before {
+  content: "";
+  display: block;
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  left: 0;
+  top: -70px;
+}
+
+.w-logos {
+  max-width: 350px;
+}
+.decor1,
+.decor8,
+.decor4 {
+  position: absolute;
+  z-index: 0;
+  left: 0;
+  top: -160px;
+  right: 0;
+}
+.decor8 {
+  top: -150px;
+}
+.decor1 {
+  top: 0;
+}
+.decor10 {
+  left: unset;
+  right: -120px;
+  top: -300px;
+}
+.decor4 {
+  right: 0;
+  left: unset;
+}
+.decor2 {
+  top: 20px !important;
+}
+@media (max-width: 520px) {
+  .decor1 {
+    top: 70px;
+  }
+}
+@media (max-width: 720px) {
+  .decor10 {
+    left: unset;
+    right: -90px;
+    top: 70px;
+    max-width: 450px;
+    opacity: 0.5;
+  }
+}
+.decor7 {
+  position: absolute;
+  z-index: 0;
+
+  top: 30px;
+
+  margin-left: -52px;
+  width: 98px;
+}
+
+.decor2,
+.decor3,
+.decor5 {
+  position: absolute;
+  z-index: 0;
+
+  top: -130px;
+  right: 25px;
+  width: 98px;
+}
+.decor3 {
+  top: -175px;
+  right: unset;
+  width: 55px;
+  left: 75px;
+}
+.decor5 {
+  top: 305px;
+  left: unset;
+  width: 95px;
+  right: 45px;
+}
+.edu4devgif {
+  position: relative;
+  z-index: 1;
+  max-width: 352px;
+}
+@media (max-width: 520px) {
+  .edu4devgif {
+    max-width: 320px;
+  }
+  .decor3 {
+    top: -100px;
+  }
+  .decor5 {
+    right: 0px;
+  }
+  .decor8 {
+    top: 120px;
+  }
+}
+
+@media (max-width: 400px) {
+  .edu4devgif {
+    max-width: 290px;
+  }
+  .logo-hack {
+    display: none;
+  }
+
+  .btn-header-hack {
+    justify-content: center !important;
+  }
+}
+.stripe-button {
+  max-width: 150px;
+}
+
+/**/
+.feedback input .feedback textarea {
+  border: 2px solid #000;
+  margin-bottom: 10px;
+}
+
+.feedback label {
+  margin-bottom: 5px;
+  cursor: pointer;
+}
+.feedback textarea {
+  min-height: 100px;
+}
+.mb-96block {
+  margin-bottom: 96px;
+  display: block;
+}
+
+body .faq h3 button,
+body .faq {
+  text-align: left;
+}
+.carousel-item:last-of-type {
+  max-width: 95%;
+}
+small {
+  font-size: 11px !important;
+  text-align: center;
+}
+.purple-btn {
+  align-self: center;
+  line-height: 38px;
+  font-weight: 600;
+}
+.outline-btn {
+  line-height: 36px;
+  font-weight: 600;
+  display: inline-flex;
+  flex-direction: row;
+  background-color: white;
+  opacity: 0.7;
+  border-radius: 8px;
+  border: 2px solid black;
+  align-items: center;
+  padding: 0 18px;
+  text-align: center;
+}
+.outline-btn:hover {
+  background-color: #7c3aed;
+  opacity: 1;
+  border: 2px solid transparent;
+  padding: 0 16px;
+
+  color: white;
+}
+.logosGrid .bg-card,
+.logosGrid .text-card-foreground {
+  background-color: unset;
+  box-shadow: unset;
+  border: unset;
+}
+#pricing .shadow-sm:nth-child(2) {
+  box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000),
+    var(--tw-ring-shadow, 0 0 #0000), 0 1px 40px 15px rgb(0 0 0 / 0.04);
+}
+
+.half-green-bg {
+  background-color: #013334;
+  position: absolute;
+  z-index: 0;
+  height: 360px;
+  bottom: -225px;
+  background: url("/assets/images/background-green.png") repeat top center;
+  background-size: auto 400px;
+}
+
+.bg-brand-green {
+  background-color: #013334;
+  z-index: 0;
+  width: 100%;
+  height: 100%;
+  background: url("/assets/images/background-green.png") repeat top center;
+  background-size: auto 400px;
+}
+.text-brand-green {
+  color: #013334;
+}
+
+.text-primary-foreground strong {
+  font-weight: 400;
+}
+.faq {
+  padding: 0.5rem 1rem;
+}
+@media (max-width: 433px) {
+  .mt-10-responsive-negative {
+    margin-top: -10px;
+  }
+}

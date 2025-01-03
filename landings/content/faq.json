@@ -1,0 +1,58 @@
+{
+  "title": "Frequently Asked Questions",
+  "description": "Your question might be someone else's too. In a field filled with new terms and concepts, it's always good to know the key questions that guide each area.",
+  "button": {
+    "text": "Join Us on the Road",
+    "url": "mailto:contact@21miles.com"
+  },
+  "faqItems": [
+    {
+      "label": "Why is the company called 21 Miles?",
+      "content": "The name '21 Miles' is inspired by the iconic 21-mile Mulholland Drive in California. It also reflects the extensive journey of our founders, who bring over two decades each one of experience in digital marketing, guiding clients to success."
+    },
+    {
+      "label": "What services does 21 Miles Web Solutions offer?",
+      "content": "We offer a comprehensive range of web solutions, including landing pages, websites, blogs, and campaign management for paid ads. Our services extend to brand design, conversion rate optimization (CRO), and a full suite of development technologies such as NextJS, GatsbyJS, WordPress, Netlify, and Vercel. We also specialize in advanced technologies like AI Architecture, ChatGPT, Azure AI Tools, AR, and VR, providing tailored solutions to meet the unique needs of each project."
+    },
+    {
+      "label": "Who is behind 21 Miles Web Solutions?",
+      "content": "21 Miles Web Solutions is driven by a global team of experts from different parts of the world. With headquarters in Mulholland, Calabasas, our team includes Bryan S. from Los Angeles, CA, USA, Milton Bolonha from Ribeirão Preto, SP, Brazil, Maitthe Orizenco, our marketing and project manager, Gabriel Azevedo, a senior fullstack developer and programming instructor, and Samuel Azevedo, a project manager and English teacher. Our combined expertise spans web development, AI tools, and creative design, allowing us to deliver exceptional web solutions tailored to your needs."
+    },
+    {
+      "label": "What makes 21 Miles Web Solutions different from other web agencies?",
+      "content": "Our difference lies in our approach to the journey. Inspired by the iconic Mulholland Drive's 21-mile road, we treat every project as a unique path to success. With a multicultural, multidisciplinary team, we provide innovative solutions backed by top-tier technologies and a deep commitment to performance, precision, and impact. Our goal is not just to build websites, but to craft journeys that drive results."
+    },
+    {
+      "label": "How can I start a project with 21 Miles Web Solutions?",
+      "content": "Starting a project with us is easy. Simply book a free consultation call, and we'll discuss your needs, goals, and vision. Our team will then create a personalized strategy to guide your project down the right path toward success."
+    },
+    {
+      "label": "Does 21 Miles offer international payment options?",
+      "content": "Yes, we accept international payments from the USA, Europe, and other regions. We also support local payments and transfers, ensuring flexibility for clients worldwide."
+    },
+    {
+      "label": "Can 21 Miles build custom solutions?",
+      "content": "Yes, we create tailor-made solutions for each client. From landing pages to complete web platforms, we adapt our development process to meet your specific business needs."
+    },
+    {
+      "label": "Does 21 Miles offer support after project delivery?",
+      "content": "Yes, we offer ongoing support, maintenance, and optimization to ensure your website or application remains fast, secure, and up to date."
+    },
+    {
+      "label": "How long does it take to complete a project?",
+      "content": "Project timelines vary depending on the complexity and scope of the work. We provide an estimated timeline after evaluating your project’s requirements."
+    },
+    {
+      "label": "Does 21 Miles offer performance optimization?",
+      "content": "Yes, we focus on performance optimization, ensuring fast load times, high SEO scores, and smooth user experiences for all projects we deliver."
+    },
+    {
+      "label": "Can 21 Miles help with SEO and digital marketing?",
+      "content": "Yes, we provide SEO optimization, content structuring, and performance tracking to help your site rank higher and convert more visitors into customers."
+    },
+    {
+      "label": "How do I get started with 21 Miles?",
+      "content": "Simply book a free call with us to discuss your project. We’ll analyze your needs and create a personalized action plan to guide you on the road to success."
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "grids": [
+    {
+      "clients": {
+        "title": "Our Clients",
+        "logos": [
+          {
+            "src": "logo-descola.png",
+            "width": 130,
+            "height": 44,
+            "alt": "google"
+          },
+          {
+            "src": "logo-upwork.png",
+            "width": 120,
+            "height": 35,
+            "alt": "chatgpt"
+          },
+          {
+            "src": "logo-github.png",
+            "width": 120,
+            "height": 32,
+            "alt": "openai"
+          },
+          {
+            "src": "logo-edu4dev.png",
+            "width": 130,
+            "height": 38,
+            "alt": "microsoft"
+          },
+          {
+            "src": "logo-queimou.png",
+            "width": 65,
+            "height": 65,
+            "alt": "github"
+          },
+          {
+            "src": "logo-adj.png",
+            "width": 120,
+            "height": 35,
+            "alt": "azure"
+          }
+        ],
+        "columns": { "default": 1, "sm": 2, "md": 2, "lg": 3 }
+      }
+    },
+    {
+      "partners": {
+        "title": "Parcerias",
+        "logos": [
+          {
+            "src": "cloudi.png",
+            "width": 80,
+            "height": 52,
+            "alt": "cloudinary"
+          },
+          {
+            "src": "sendgrid.png",
+            "width": 60,
+            "height": 60,
+            "alt": "sendgrid"
+          },
+          {
+            "src": "netlify.png",
+            "width": 75,
+            "height": 66,
+            "alt": "netlify"
+          }
+        ],
+        "columns": { "default": 1, "sm": 2, "md": 2, "lg": 3 }
+      }
+    },
+    {
+      "resources": {
+        "title": "Recursos e Certificações",
+        "logos": [
+          {
+            "src": "decapcms.png",
+            "width": 75,
+            "height": 72,
+            "alt": "decapcms"
+          },
+          {
+            "src": "sonar.png",
+            "width": 140,
+            "height": 34,
+            "alt": "sonar"
+          },
+          {
+            "src": "nextjs.png",
+            "width": 75,
+            "height": 75,
+            "alt": "nextjs"
+          },
+          {
+            "src": "nodejs.png",
+            "width": 65,
+            "height": 75,
+            "alt": "nodejs"
+          },
+          {
+            "src": "npmw.png",
+            "width": 90,
+            "height": 48,
+            "alt": "npmw"
+          },
+          {
+            "src": "reactjs.png",
+            "width": 70,
+            "height": 60,
+            "alt": "reactjs"
+          },
+          {
+            "src": "markdown.png",
+            "width": 80,
+            "height": 49,
+            "alt": "markdown"
+          },
+          {
+            "src": "sass.png",
+            "width": 80,
+            "height": 60,
+            "alt": "sass"
+          },
+          {
+            "src": "tagmanager.png",
+            "width": 80,
+            "height": 75,
+            "alt": "tagmanager"
+          },
+          {
+            "src": "adsense.png",
+            "width": 70,
+            "height": 73,
+            "alt": "adsense"
+          },
+          {
+            "src": "analytics.png",
+            "width": 75,
+            "height": 75,
+            "alt": "analytics"
+          }
+        ],
+        "columns": { "default": 1, "sm": 2, "md": 2, "lg": 3 }
+      }
+    }
+  ]
+}

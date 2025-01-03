@@ -1,0 +1,23 @@
+[build]
+    command = "npm run build"
+    functions = "app/api/netlify"
+    publish = "out"
+
+[build.environment]
+  NODE_VERSION = "20.11.0"
+
+[[plugins]]
+  package = "@netlify/plugin-local-install-core"
+
+[[plugins]]
+package = "@netlify/plugin-emails"
+
+[functions]
+  directory = "app/api/netlify"
+
+[[edge_functions]]
+  path = "/app/api/netlify/geo" 
+  function = "injectGeoCookie"
+  
+[[plugins]]
+  package = "@netlify/plugin-nextjs"

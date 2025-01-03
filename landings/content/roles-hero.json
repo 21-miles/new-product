@@ -1,0 +1,35 @@
+{
+  "badge": "Kits Educacionais",
+  "title": "Seja DEV você também!",
+  "description": "Os kits da Edu4Dev foram desenvolvidos para você experimentar grande variedade de habilidades. Você vai ser apresentado à diversas áreas do mundo do desenvolvimento web moderno.",
+  "ctaButton": {
+    "href": "/#pricing",
+    "text": "Adquira Já Seu Kit!"
+  },
+  "images": [
+    {
+      "src": "/assets/images/window-1.png",
+      "alt": "",
+      "width": 215,
+      "height": 184
+    },
+    {
+      "src": "/assets/images/window-2.png",
+      "alt": "",
+      "width": 215,
+      "height": 184
+    },
+    {
+      "src": "/assets/images/list-2.png",
+      "alt": "",
+      "width": 215,
+      "height": 178
+    },
+    {
+      "src": "/assets/images/list-1.png",
+      "alt": "",
+      "width": 215,
+      "height": 168
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "successMessage": "Thank you for your message. We will reach you soon.",
+  "feedbackSubject": "Message Request",
+  "siteUrl": "https://edu4.dev",
+  "footerText": "",
+  "postsToShow": 9,
+  "cookieConsent": false,
+  "scope": "",
+  "darkModeSwitcher": false,
+  "feedbackEmail": "milton@edu4.dev",
+  "publishedDate": "2024-01-01 23:44:00",
+  "i18n": "pt-br",
+  "errorMessage": "Hmm... something is wrong, try again later or e-mail us: milton@edu4.dev"
+}

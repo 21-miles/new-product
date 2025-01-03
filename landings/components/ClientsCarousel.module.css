@@ -1,0 +1,26 @@
+.carousel {
+  overflow: hidden;
+  width: 100%;
+  position: relative;
+  top: 72px;
+}
+
+.track {
+  display: flex;
+  width: calc(335px * 20); /* 10 logos * 2 for infinite effect */
+  animation: scroll 30s linear infinite;
+}
+
+.slide {
+  flex: 0 0 335px;
+  height: 201px;
+}
+
+@keyframes scroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(calc(-335px * 10)); /* Move by 10 logos */
+  }
+}

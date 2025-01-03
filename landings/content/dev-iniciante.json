@@ -1,0 +1,15 @@
+{
+  "badge": "Kit Dev Iniciante",
+  "title": "Inicie a sua jornada DEV",
+  "description": "Material com aulas, livro, sistemas Next.js, trilhas exclusivas e muito mais. FAQ e canal no Discord.",
+  "ctaButton": {
+    "href": "/#pricing",
+    "text": "Conheça Nosso Kit!"
+  },
+  "image": {
+    "src": "/assets/images/kit-iniciante.png",
+    "alt": "kit programação dev iniciante",
+    "width": 470,
+    "height": 400
+  }
+}

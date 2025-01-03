@@ -1,0 +1,26 @@
+{
+  "title": "What Our Clients Say",
+  "subheading": "Here are some testimonials from our satisfied clients.",
+  "testimonials": [
+    {
+      "label": "Dream Come True",
+      "content": "All I ever wanted in life was to learn how to code, and with the Kit, everything became easier.",
+      "author": "Matheus Miranda, Campinas - SP."
+    },
+    {
+      "label": "Code Rockstar",
+      "content": "21 Miles is a code rockstar. I highly recommend it! :) It's also a very relaxed and communicative company. FIVE STARS!",
+      "author": "CEO, Figmenta, Milan - Italy."
+    },
+    {
+      "label": "GOAT",
+      "content": "The market is flooded with low-experience developers, but 21 Miles is clearly on a different level, GOAT!",
+      "author": "CEO, CB, Lisbon - Portugal"
+    },
+    {
+      "label": "21 Miles is very talented",
+      "content": "21 Miles is very talented. I have hired them for several years and know them well. The quality of their technology is very high. I recommend them.",
+      "author": "CEO Green Hat Web Solutions, Denver - USA"
+    }
+  ]
+}

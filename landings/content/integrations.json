@@ -1,0 +1,13 @@
+{
+  "cloudinaryIntegration": {
+    "cloudApiKey": "",
+    "cloudName": "dyxuhpt7j",
+    "folderName": "edu4dev"
+  },
+  "googleIntegration": {
+    "adsClientID": "",
+    "adsSlot": "",
+    "gaID": "G-FTLM543P8E",
+    "adsAccount": ""
+  }
+}

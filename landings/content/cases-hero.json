@@ -1,0 +1,64 @@
+{
+  "logos": [
+    {
+      "src": "openai.png",
+      "alt": "Descola Cursos",
+      "width": 80,
+      "height": 80
+    },
+    {
+      "src": "nextjs.png",
+      "alt": "UpWork Clients",
+      "width": 80,
+      "height": 80
+    },
+    {
+      "src": "reactjs.png",
+      "alt": "GitHub Templates",
+      "width": 80,
+      "height": 80
+    },
+    {
+      "src": "netlify.png",
+      "alt": "Edu4Dev - Escola de Programação",
+      "width": 80,
+      "height": 80
+    },
+    {
+      "src": "logo-sendgrid.png",
+      "alt": "Queimou.Ai",
+      "width": 80,
+      "height": 80
+    },
+    {
+      "src": "logo-stripe.png",
+      "alt": "Queimou.Ai",
+      "width": 80,
+      "height": 80
+    },
+    {
+      "src": "logo-chatgpt.png",
+      "alt": "Queimou.Ai",
+      "width": 80,
+      "height": 80
+    },
+    {
+      "src": "logo-js.png",
+      "alt": "Queimou.Ai",
+      "width": 80,
+      "height": 80
+    },
+    {
+      "src": "logo-tailwind.png",
+      "alt": "Associação Diabetes Brasil",
+      "width": 80,
+      "height": 80
+    },
+    {
+      "src": "nodejs.png",
+      "alt": "Kit Programação Web - Edu4Dev",
+      "width": 80,
+      "height": 80
+    }
+  ]
+}

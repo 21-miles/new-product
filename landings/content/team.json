@@ -1,0 +1,51 @@
+{
+  "sectionTitle": "Meet Our Team",
+  "sectionSubtitle": "Our team consists of experienced professionals dedicated to delivering high-quality solutions.",
+  "members": [
+    {
+      "name": "Bryan S.",
+      "role": "Marketing Head & Co-Founder",
+      "bio": "With decades of experience, Bryan drives impactful marketing strategies for long-term success.",
+      "image": {
+        "src": "/assets/images/team-1.jpg",
+        "alt": "Bryan S."
+      }
+    },
+    {
+      "name": "Milton Bolonha",
+      "role": "CEO & CTO",
+      "bio": "Milton leads with a visionary approach, blending 26+ years in tech and education.",
+      "image": {
+        "src": "/assets/images/team-2.jpg",
+        "alt": "Milton Bolonha"
+      }
+    },
+    {
+      "name": "Maitthe O.",
+      "role": "Marketing & Projects Manager",
+      "bio": "Maitthe excels at managing projects and crafting impactful brand experiences.",
+      "image": {
+        "src": "/assets/images/team-3.jpg",
+        "alt": "Maitthe O."
+      }
+    },
+    {
+      "name": "Gabriel A.",
+      "role": "Senior Fullstack Developer",
+      "bio": "A specialist in scalable solutions, Gabriel transforms ideas into seamless systems.",
+      "image": {
+        "src": "/assets/images/team-4.jpg",
+        "alt": "Gabriel A."
+      }
+    },
+    {
+      "name": "Samuel A.",
+      "role": "Project Manager & Language Expert",
+      "bio": "Samuel bridges communication and organization, ensuring projects excel globally.",
+      "image": {
+        "src": "/assets/images/team-5.jpg",
+        "alt": "Samuel A."
+      }
+    }
+  ]
+}

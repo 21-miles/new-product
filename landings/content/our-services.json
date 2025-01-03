@@ -1,0 +1,18 @@
+{
+  "title": "All Around The World",
+  "subheading": "We spread a variety of techs to help you achieve your goals.",
+  "description": [
+    {
+      "text": "We connect <strong>Artificial Intelligence</strong> and <strong>Web Solutions</strong> to develop impactful solutions that keep our clients ahead of the curve."
+    },
+    {
+      "text": "From Landing Pages to complete Websites, Blogs, and high-performance ADS campaigns, we leverage the market's leading technologies — WordPress, NextJS, GatsbyJS, JavaScript, TypeScript, and more — to deliver results that go the extra mile."
+    }
+  ],
+  "image": {
+    "src": "/assets/images/kit-programacao.png",
+    "alt": "kit programação",
+    "width": 400,
+    "height": 351
+  }
+}

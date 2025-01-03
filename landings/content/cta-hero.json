@@ -1,0 +1,21 @@
+{
+  "backgroundImage": {
+    "src": "/assets/images/decor8.png",
+    "width": 960,
+    "height": 1021,
+    "alt": "Decorative background"
+  },
+  "badge": {
+    "text": "Your Next Destination"
+  },
+  "title": {
+    "text": "What’s it like working with us?"
+  },
+  "description": {
+    "text": "Start your journey by scheduling a call. Share your vision, and we’ll map a custom strategy. Your journey to success starts here. We’ll plan the route, craft a strategy, and drive results—step by step, mile by mile. <br />Ready to hit the road with us?"
+  },
+  "ctaButton": {
+    "href": "/#contact",
+    "text": "Book a Free Call"
+  }
+}

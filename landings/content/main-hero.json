@@ -1,0 +1,19 @@
+{
+  "logo": {
+    "src": "/assets/images/logo-1.png",
+    "alt": "Alt Text",
+    "width": 238,
+    "height": 306
+  },
+  "decorImage": {
+    "src": "",
+    "alt": "Alt Text",
+    "width": 800,
+    "height": 829
+  },
+  "link1": {
+    "text": "The road to success starts with the first mile.",
+    "button": "Drive ahead",
+    "link": "/#pricing"
+  }
+}

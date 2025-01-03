@@ -1,0 +1,43 @@
+{
+  "navigationItems": [
+    {
+      "title": "About Us",
+      "description": "Managing a small business today is already tough.",
+      "items": [
+        {
+          "title": "Our Clients",
+          "href": "/#clients"
+        },
+        {
+          "title": "Testimonials",
+          "href": "/#testimonials"
+        },
+        {
+          "title": "What We Do?",
+          "href": "/#what-we-do"
+        },
+        {
+          "title": "Our Team",
+          "href": "/#our-team"
+        },
+        {
+          "title": "Our Techs",
+          "href": "/#our-techs"
+        },
+        {
+          "title": "FAQ",
+          "href": "/#faq"
+        }
+      ]
+    }
+  ],
+  "companyInfo": {
+    "name": "21 Miles",
+    "address": ["Mulholland Hwy Ste, ", "Calabasas, CA", "USA"]
+  },
+  "logo": {
+    "src": "/assets/images/rouded-logo.png",
+    "width": 75,
+    "height": 75
+  }
+}

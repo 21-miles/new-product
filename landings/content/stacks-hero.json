@@ -1,0 +1,31 @@
+{
+  "titles": [
+    { "src": "logo-chatgpt.png", "alt": "ChatGPT", "w": 175, "h": 51 },
+    { "src": "logo-stripe.png", "alt": "Stripe", "w": 160, "h": 66 },
+    { "src": "logo-sendgrid.png", "alt": "SendGrid", "w": 190, "h": 53 },
+    { "src": "logo-tailwind.png", "alt": "Tailwind CSS", "w": 250, "h": 38 },
+    {
+      "src": "logo-action.png",
+      "alt": "GitHub Actions for Automation",
+      "w": 156,
+      "h": 59
+    },
+    { "src": "logo-ts.png", "alt": "TypeScript", "w": 65, "h": 65 },
+    { "src": "logo-js.png", "alt": "JavaScript", "w": 65, "h": 65 },
+    { "src": null, "alt": "App Router", "w": 400, "h": 500 },
+    { "src": null, "alt": "Page Router", "w": 400, "h": 500 },
+    { "src": null, "alt": "Hospedagem Grátis*", "w": 400, "h": 500 }
+  ],
+  "description": "Tenha em mãos as seguintes tecnologias usadas em projetos profissionais e por grandes empresas: Inteligência Artificial, Método de Pagamento, Núvem de Arquivos, Hospedagem Grátis, Envio de E-mails, Gestão de Conteúdo e muitos outros serviços ao custo zero!",
+  "button1": { "text": "Compre no Pix", "icon": "PhoneCall" },
+  "button2": {
+    "text": "Adquira Já Seu Kit!",
+    "icon": "MoveRight",
+    "link": "/#pricing"
+  },
+  "link1": {
+    "text": "Conheça Nosso Kit",
+    "icon": "MoveRight",
+    "link": "/#pricing"
+  }
+}
